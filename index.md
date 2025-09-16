@@ -1,22 +1,23 @@
+- [SKILLS](#skills)
 
-## Table of Contents- [Table of Contents - ](#table-of-contents---)
- - [](#)
+
 
 
 
 <html>
 <body>
 <h1>Reliance Enwerem</h1>
+<p>
   <strong>re994772@ucf.edu | +1 659 239 1722 | www.linkedin.com/in/reliance enwerem</strong>
-</h1>
-<body>
+ </p>
+# SKILLS
     <h2 id="firstParagraph">SKILLS</h2>
     <ul>
-      <l1><strong>Digital Media & Storytelling:</strong> Canva, PowerPoint, QGIS, Knight Lab, WordPress</l1>
-      <l2><strong>Data Visualization & Analytics:</strong> Power BI, Tableau, Excel, SQL, R, Stata</l2>
-      <l3><strong>Writing & Editing:</strong> Scribe, <em>web design and writing</em> via Omeka, <em>technical and research writing</em></l3> 
-      <l4><strong>Collaboration Tools:</strong> Slack, Trello, Microsoft 365 Suite<l4>
-      <l5><strong>Field tools:</strong> Kobo Collect, NVivo, Dedoose<l5>
+      <li><strong>Digital Media & Storytelling:</strong> Canva, PowerPoint, QGIS, Knight Lab, WordPress</li>
+      <li><strong>Data Visualization & Analytics:</strong> Power BI, Tableau, Excel, SQL, R, Stata</li>
+      <li><strong>Writing & Editing:</strong> Scribe, <em>web design and writing</em> via Omeka, <em>technical and research writing</em></li> 
+      <li><strong>Collaboration Tools:</strong> Slack, Trello, Microsoft 365 Suite</li>
+      <li><strong>Field tools:</strong> Kobo Collect, NVivo, Dedoose</li>
     <ul>
   </body>
 
