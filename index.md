@@ -11,7 +11,7 @@
 <h1>Reliance Enwerem</h1>
 </div>
   <p>
-    <span style="color:#3399ff;"><u>re994772@ucf.edu</u> | +1 659 239 1722 | <a href="www.linkedin.com/in/reliance-enwerem">My Linkedin Profile</a></u></span>
+    <span style="color:#3399ff;"><u>re994772@ucf.edu</u> | +1 659 239 1722 | <a href="www.linkedin.com/in/reliance-enwerem">My Linkedin Profile</a></span>
   </p>
 
 <div id ="SKILLS">
@@ -36,7 +36,7 @@
 
 <div id ="WORK EXPERIENCE">
   <h2 id="thirdParagraph">WORK EXPERIENCE</h2>
-  <h3><span style="color:lightblue;">Assistant Director</span> </h3>
+  <h3><span style="color:blue;">Assistant Director</span> </h3>
   <h4>The University of Alabama Writing Center	[May 2024 – May 2025]</h4>
     <ul>
       <li>Designed and delivered workshops, presentations, and digital learning content for faculty and students.</li>
@@ -45,7 +45,7 @@
     </ul>
   </div>
 
-  <h3><span style="color:lightblue;">Graduate Research Assistant, Digital Humanities</span> </h3>
+  <h3><span style="color:blue;">Graduate Research Assistant, Digital Humanities</span> </h3>
   <h4>The University of Alabama Digital Humanities Center (ADHC)	[Aug 2023 – Aug 2024]</h4>
     <ul>
       <li>Facilitated the planning and communications for the Digitorium 2024, a digital humanities conference.</li>
@@ -53,7 +53,7 @@
       <li>Managed web development and digital content using Omeka and PowerBI visualizations.</li>
     </ul>
   
-<h3><span style="color:lightblue;">Strategic Information & Communications Associate</span></h3>
+<h3><span style="color:blue;">Strategic Information & Communications Associate</span></h3>
   <h4>ICAP Global Health (ICAP at Columbia University)	[May 2023 – Aug 2023]</h4>
     <ul>
       <li>Developed interactive public health messages and reports for HIV/AIDS prevention campaigns.</li>	
@@ -62,22 +62,22 @@
       <li>Spearheaded qualitative interviews, focus group discussions, development of concept notes, and research writing for dissemination of projects report.</li>
     </ul>
 
-<h3><span style="color:lightblue;">Strategic Information Intern</span></h3>
+<h3><span style="color:blue;">Strategic Information Intern</span></h3>
   <h4>Excellence Community Education Welfare Scheme (ECEWS) 	Nov 2022 – May 2023</h4>
     <ul>
-      <li>•	Drafted technical reports, concept notes, and communications materials for USAID-funded projects.</li>	
+      <li>Drafted technical reports, concept notes, and communications materials for USAID-funded projects.</li>	
       <li>Assisted in developing content for knowledge sharing and global learning.</li>
     </ul>
 
 <div id ="LEADERSHIP EXPERIENCE">
   <h2 id="fourthParagraph">LEADERSHIP EXPERIENCE</h2>
     <ul>
-      <li>Doctoral Fellow, University of Central Florida Aug 2025-2029</li>
+      <li>Doctoral Fellow, University of Central Florida, Aug 2025-2029</li>
       <li>Delegate, United Nations Economic and Social Council Youth Forum (UN ECOSOC)	April 2025</li>
-      <li>President, English Graduate Organization (EGO), The University of Alabama	May 2024 – May 2025</li>
-      <li>Senator, Grad School Representative, UA Student Government Association	May 2024 – May 2025</li>
+      <li>President, English Graduate Organization (EGO), The University of Alabama,	May 2024 – May 2025</li>
+      <li>Senator, Grad School Representative, UA Student Government Association,	May 2024 – May 2025</li>
       <li>Judge, The University of Alabama Undergraduate Research and Activity Conference (URCA), March 2024.</li>
-      <li>Committee Member, Bynam Speaker Series Planning Committee & Bama Days of Service	Jan 2024 - April 2024</li>
+      <li>Committee Member, Bama Days of Service & Bynam Speaker Series Planning Committee,	Jan 2024 - April 2024</li>
     </ul>
   </div>
 
