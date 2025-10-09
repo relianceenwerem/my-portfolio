@@ -1,6 +1,7 @@
-remote_theme: pages-themes/architect@v0.2.0
+theme: minima
 plugins:
 - jekyll-remote-theme
-title: T&T Sample Site
-description: T&T sample site for intro
+title: Reliance's CV
+remote_theme: pages-themes/minima@v0.2.0
+description: Reliance's CV
 

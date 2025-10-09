@@ -1,36 +1,49 @@
---
+---
 layout: default
-title: Teaching Experience
+title: Reliance Enwerem - Academic Portfolio
 ---
 
-# Teaching Experience
+![featured-image](/assets/featured-image.jpg)
 
-## Course 1
-- Description
-- Semester Taught
+<h1>Reliance Enwerem</h1>
 
-## Course 2
-- Description
-- Semester Taught
+<div>
+  <header>
+  This page contains information about relevant skills, professional experiences, links to my portfolio and Linkedin profile.
+  </header>
+</div>
+
+- [Contact](#contact)
+- [Bio](#bio)
+- [Skills](#skills)
+- [Education](#education)
+- [Teaching Experience](#teaching-experience)
+  - [Fall 2024](#fall-2024)
+- [Work Experience](#work-experience)
+- [Leadership Experience](#leadership-experience)
+- [Conference Presentations and Publications](#conference-presentations-and-publications)
+- [Awards](#awards)
 
 
 <html>
 <body>
-<div>
-  <header>
-  This page contains information about relevant skills, professional experiences, and links to my portfolio and Linkedin profile.
-  </header>
-</div>
 
- <div id ="name">
-<h1>Reliance Enwerem</h1>
+# Contact
+ <div id ="contact">
 </div>
   <p>
     <span style="color:#3399ff;"><u>re994772@ucf.edu</u> | +1 659 239 1722 | <a href="www.linkedin.com/in/reliance-enwerem">My Linkedin Profile</a></span>
   </p>
 
+# Bio
+Reliance Enwerem is an interdisciplinary researcher and communicator whose work bridges digital humanities, scientific and technical communication, and risk communications. Reliance studies how digital technologies, language, and data shape public understanding of health, science, and risk in global contexts.
+
+Her research integrates critical digital literacy, AI ethics, and data analytics & visualization to explore how people engage with information systems across cultures. Reliance contributes to nonprofit and academic projects advancing data-driven health communication, advocacy, and sustainability. She also analyzes how emerging technologies influence access, equity, and trust in digital and institutional environments.
+
+Combining computational methods and rhetorical inquiry, Reliance’s scholarship reimagines how organizations and communities can communicate risk more effectively and inclusively. Her long-term goal is to contribute to organizations working to build global communication systems that promote equity and public well-being.
+
+# Skills
 <div id ="SKILLS">
-    <h2 id="firstParagraph">SKILLS</h2>
     <ul>
       <li><strong>Digital Media & Storytelling:</strong> Canva, PowerPoint, QGIS, Knight Lab, WordPress</li>
       <li><strong>Data Visualization & Analytics:</strong> Power BI, Tableau, Excel, SQL, R, Stata</li>
@@ -40,17 +53,22 @@ title: Teaching Experience
     </ul>
   </div>
 
+# Education
   <div id ="EDUCATION">
-  <h2 id="secondParagraph">EDUCATION</h2>
-    <ul>
+      <ul>
       <li>The University of Central Florida, Orlando, Florida, USA PhD, Scientific & Technical Communication/ Texts & Technology 2029 (In-view)</li>
       <li>The University of Alabama, Tuscaloosa, Alabama, USA Master of Arts, English May 2025</li>
       <li>University of Benin, Benin City, Edo State, Nigeria BA English and Literature Dec 2019</li>
     </ul>
   </div>
 
+# Teaching Experience
+
+## Fall 2024
+- EN 103-320, Advanced English Composition, First-year Writing Program, The University of Alabama. 
+
+# Work Experience
 <div id ="WORK EXPERIENCE">
-  <h2 id="thirdParagraph">WORK EXPERIENCE</h2>
   <h3><span style="color:blue;">Assistant Director</span> </h3>
   <h4>The University of Alabama Writing Center	[May 2024 – May 2025]</h4>
     <ul>
@@ -84,9 +102,9 @@ title: Teaching Experience
       <li>Assisted in developing content for knowledge sharing and global learning.</li>
     </ul>
 
+# Leadership Experience
 <div id ="LEADERSHIP EXPERIENCE">
-  <h2 id="fourthParagraph">LEADERSHIP EXPERIENCE</h2>
-    <ul>
+      <ul>
       <li>Doctoral Fellow, University of Central Florida, Aug 2025-2029</li>
       <li>Delegate, United Nations Economic and Social Council Youth Forum (UN ECOSOC)	April 2025</li>
       <li>President, English Graduate Organization (EGO), The University of Alabama,	May 2024 – May 2025</li>
@@ -96,8 +114,8 @@ title: Teaching Experience
     </ul>
   </div>
 
+# Conference Presentations and Publications
 <div id ="CONFERENCE PRESENTATIONS AND PUBLICATIONS">
-  <h2 id="fifthParagraph">CONFERENCE PRESENTATIONS AND PUBLICATIONS</h2>
     <ul>
       <li>Computers & Writing Conference, “Digital Storytelling: Advancing Critical Embodiment in AI (Mis)Representations,” Fort Worth, Texas, June 22, 2024. <a href:="https://criticaldigitalliteracies.omeka.net/">Critical digital literacies.omeka</a> </li>
       <li>Southeastern Writing Centre Association (SWCA) Conference, “Writing Center Movements: Keeping Up with AI in the Writing Center,” Decatur, Georgia, February 23, 2024.</li>	
@@ -109,8 +127,8 @@ title: Teaching Experience
     </ul>
   </div>
 
+# Awards
 <div id ="AWARDS">
-  <h2 id="sixthParagraph">AWARDS</h2>
     <ul>
       <li>	University of Central Florida Trustees Doctoral Fellowship</li>	
       <li>Award of Excellence, Achieving Health Nigeria Initiative</li>	
@@ -121,7 +139,7 @@ title: Teaching Experience
 
 
 <footer>
-  This was created by Reliance Enwerem
+  Website created & managed by Reliance Enwerem
 </footer>
 </body>
 </html>
