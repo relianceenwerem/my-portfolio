@@ -1,7 +1,5 @@
-theme: minima
-plugins:
-- jekyll-remote-theme
-title: Reliance's CV
-remote_theme: pages-themes/minima@v0.2.0
-description: Reliance's CV
+theme: architect
+title: "Reliance's CV"
+description: "Reliance's CV"
+author: "Reliance Enwerem"
 
