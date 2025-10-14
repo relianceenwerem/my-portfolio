@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reliance Enwerem - Academic Portfolio
+title: Home
 ---
 
 ![featured-image](/assets/featured-image.jpg)

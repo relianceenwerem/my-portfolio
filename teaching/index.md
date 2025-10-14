@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Teaching Experience
+permalink: /teaching/
 ---
 
 # Teaching Experience
