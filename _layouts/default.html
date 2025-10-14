@@ -40,8 +40,8 @@
 
         <aside id="sidebar">
           <a href="https://relianceenwerem.github.io/my-portfolio/" class="button">Home</a>
-          <a href="/teaching/" class="button">Teaching</a>
-          <a href="/projects/" class="button">Projects</a>
+          <a href="{{ '/teaching/' | absolute_url }}" class="button">Teaching</a>
+          <a href="{{ '/projects/' | absolute_url }}" class="button">Projects</a>
 
          {% if site.show_downloads %}
           <a href="{{ site.github.zip_url }}" class="button">
