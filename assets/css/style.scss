@@ -68,26 +68,31 @@ aside a.button {
  */
 
 /* ==== Animated version ==== */
-
+/* The outer container hides anything that sticks out due to rotation */
 #home-container {
   overflow: hidden;
   position: relative;
+  padding: 40px; /* optional: adds breathing room around the section */
+  background: white; /* adjust to match your page background */
 }
 
+/* The animated inner box */
 #home {
-  background: linear-gradient(135deg, #ff6ec4, #7873f5); 
-  color: black; 
+  background: linear-gradient(135deg, #ff6ec4, #7873f5);
+  color: black;
   text-align: center;
   padding: 40px;
   border-radius: 20px;
   border: 4px dashed yellow;
   text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
   font-size: 3em;
-  transform: rotate(-2deg); 
+  transform: rotate(-2deg);
   animation: bounce 1.5s infinite alternate;
+  display: inline-block;
 }
 
 @keyframes bounce {
   from { transform: translateY(0) rotate(-2deg); }
   to   { transform: translateY(-10px) rotate(2deg); }
 }
+/* End of animated version */
