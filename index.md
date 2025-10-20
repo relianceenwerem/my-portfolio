@@ -28,7 +28,7 @@ title: Home
 <html>
 <body>
 
-# Contact
+<h1> Contact </h1>
  <div id ="contact">
 </div>
   <p>
@@ -42,7 +42,7 @@ Her research integrates critical digital literacy, AI ethics, and data analytics
 
 Combining computational methods and rhetorical inquiry, Reliance’s scholarship reimagines how organizations and communities can communicate risk more effectively and inclusively. Her long-term goal is to contribute to organizations working to build global communication systems that promote equity and public well-being.
 
-# Skills
+<h1> Skills </h1>
 <div id ="SKILLS">
     <ul>
       <li><strong>Digital Media & Storytelling:</strong> Canva, PowerPoint, QGIS, Knight Lab, WordPress</li>
@@ -53,7 +53,7 @@ Combining computational methods and rhetorical inquiry, Reliance’s scholarship
     </ul>
   </div>
 
-# Education
+<h1> Education </h1>
   <div id ="EDUCATION">
       <ul>
       <li>The University of Central Florida, Orlando, Florida, USA PhD, Scientific & Technical Communication/ Texts & Technology 2029 (In-view)</li>
@@ -62,14 +62,14 @@ Combining computational methods and rhetorical inquiry, Reliance’s scholarship
     </ul>
   </div>
 
-# Teaching Experience
+<h1>Teaching Experience</h1>
 
 ## Fall 2024
 - EN 103-320, Advanced English Composition, First-year Writing Program, The University of Alabama. 
 
-# Work Experience
+<h1>Work Experience</h1>
 <div id ="WORK EXPERIENCE">
-  <h3><span style="color:blue;">Assistant Director</span> </h3>
+  <h3><span style="color:#3399ff;">Assistant Director</span> </h3>
   <h4>The University of Alabama Writing Center	[May 2024 – May 2025]</h4>
     <ul>
       <li>Designed and delivered workshops, presentations, and digital learning content for faculty and students.</li>
@@ -78,7 +78,7 @@ Combining computational methods and rhetorical inquiry, Reliance’s scholarship
     </ul>
   </div>
 
-  <h3><span style="color:blue;">Graduate Research Assistant, Digital Humanities</span> </h3>
+  <h3><span style="color:#3399ff;">Graduate Research Assistant, Digital Humanities</span> </h3>
   <h4>The University of Alabama Digital Humanities Center (ADHC)	[Aug 2023 – Aug 2024]</h4>
     <ul>
       <li>Facilitated the planning and communications for the Digitorium 2024, a digital humanities conference.</li>
@@ -86,7 +86,7 @@ Combining computational methods and rhetorical inquiry, Reliance’s scholarship
       <li>Managed web development and digital content using Omeka and PowerBI visualizations.</li>
     </ul>
   
-<h3><span style="color:blue;">Strategic Information & Communications Associate</span></h3>
+<h3><span style="color:#3399ff;">Strategic Information & Communications Associate</span></h3>
   <h4>ICAP Global Health (ICAP at Columbia University)	[May 2023 – Aug 2023]</h4>
     <ul>
       <li>Developed interactive public health messages and reports for HIV/AIDS prevention campaigns.</li>	
@@ -95,14 +95,14 @@ Combining computational methods and rhetorical inquiry, Reliance’s scholarship
       <li>Spearheaded qualitative interviews, focus group discussions, development of concept notes, and research writing for dissemination of projects report.</li>
     </ul>
 
-<h3><span style="color:blue;">Strategic Information Intern</span></h3>
+<h3><span style="color:red;">Strategic Information Intern</span></h3>
   <h4>Excellence Community Education Welfare Scheme (ECEWS) 	Nov 2022 – May 2023</h4>
     <ul>
       <li>Drafted technical reports, concept notes, and communications materials for USAID-funded projects.</li>	
       <li>Assisted in developing content for knowledge sharing and global learning.</li>
     </ul>
 
-# Leadership Experience
+<h1>Leadership Experience</h1>
 <div id ="LEADERSHIP EXPERIENCE">
       <ul>
       <li>Doctoral Fellow, University of Central Florida, Aug 2025-2029</li>
@@ -114,7 +114,7 @@ Combining computational methods and rhetorical inquiry, Reliance’s scholarship
     </ul>
   </div>
 
-# Conference Presentations and Publications
+<h1>Conference Presentations and Publications</h1>
 <div id ="CONFERENCE PRESENTATIONS AND PUBLICATIONS">
     <ul>
       <li>Computers & Writing Conference, “Digital Storytelling: Advancing Critical Embodiment in AI (Mis)Representations,” Fort Worth, Texas, June 22, 2024. <a href:="https://criticaldigitalliteracies.omeka.net/">Critical digital literacies.omeka</a> </li>
@@ -127,7 +127,7 @@ Combining computational methods and rhetorical inquiry, Reliance’s scholarship
     </ul>
   </div>
 
-# Awards
+<h1>Awards</h1>
 <div id ="AWARDS">
     <ul>
       <li>	University of Central Florida Trustees Doctoral Fellowship</li>	
