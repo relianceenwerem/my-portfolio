@@ -9,7 +9,7 @@ title: Home
 
 <div>
   <header>
-  This page contains information about relevant skills, professional experiences, links to my portfolio and Linkedin profile.
+  <span style="color:white;">This page contains information about relevant skills, professional experiences, links to my portfolio and Linkedin profile.</span>
   </header>
 </div>
 
@@ -69,7 +69,7 @@ Combining computational methods and rhetorical inquiry, Reliance’s scholarship
 
 <h1>Work Experience</h1>
 <div id ="WORK EXPERIENCE">
-  <h3><span style="color:#3399ff;">Assistant Director</span> </h3>
+  <h3><span style="color:red;">Assistant Director</span> </h3>
   <h4>The University of Alabama Writing Center	[May 2024 – May 2025]</h4>
     <ul>
       <li>Designed and delivered workshops, presentations, and digital learning content for faculty and students.</li>
@@ -78,7 +78,7 @@ Combining computational methods and rhetorical inquiry, Reliance’s scholarship
     </ul>
   </div>
 
-  <h3><span style="color:#3399ff;">Graduate Research Assistant, Digital Humanities</span> </h3>
+  <h3><span style="color:red;">Graduate Research Assistant, Digital Humanities</span> </h3>
   <h4>The University of Alabama Digital Humanities Center (ADHC)	[Aug 2023 – Aug 2024]</h4>
     <ul>
       <li>Facilitated the planning and communications for the Digitorium 2024, a digital humanities conference.</li>
@@ -86,7 +86,7 @@ Combining computational methods and rhetorical inquiry, Reliance’s scholarship
       <li>Managed web development and digital content using Omeka and PowerBI visualizations.</li>
     </ul>
   
-<h3><span style="color:#3399ff;">Strategic Information & Communications Associate</span></h3>
+<h3><span style="color:red;">Strategic Information & Communications Associate</span></h3>
   <h4>ICAP Global Health (ICAP at Columbia University)	[May 2023 – Aug 2023]</h4>
     <ul>
       <li>Developed interactive public health messages and reports for HIV/AIDS prevention campaigns.</li>	

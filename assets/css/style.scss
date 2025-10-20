@@ -69,6 +69,11 @@ aside a.button {
 
 /* ==== Animated version ==== */
 
+#home-container {
+  overflow: hidden;
+  position: relative;
+}
+
 #home {
   background: linear-gradient(135deg, #ff6ec4, #7873f5); 
   color: black; 
