@@ -1,5 +1,5 @@
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: "Enwerem Reliance Portfolio"
+title: <h1 style="color:black;">Enwerem Reliance</h1>
 description: "Riley's Portfolio"
