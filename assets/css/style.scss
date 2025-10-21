@@ -27,14 +27,20 @@ p {
 
 header a.button {
 
-    background: orange;
+    background: #273f5b;
 
 }
 
 aside a.button {
 
-    background: orange;
+    background: #273f5b;
     
+}
+#main-content header:before {
+
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+
 }
 
 #main-content h2:before {
@@ -68,6 +74,7 @@ aside a.button {
   #main-content h6 {
 
     color: black;
+    font-family: 'Courier New', Courier, monospace;
 
   }
 

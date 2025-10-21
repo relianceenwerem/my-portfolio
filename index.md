@@ -10,7 +10,7 @@ title: Home
 
 <div>
   <header>
-  <span style="color:white;">This page contains information about relevant skills, professional experiences, links to my portfolio and Linkedin profile.</span>
+  <span style="color:black;">This page contains information about relevant skills, professional experiences, links to my portfolio and Linkedin profile.</span>
   </header>
 </div>
 

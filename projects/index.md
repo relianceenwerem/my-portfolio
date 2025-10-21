@@ -28,7 +28,7 @@ permalink: /projects/
 
 ## III. <a href="https://adhc.lib.ua.edu/mapathon-day-02-georeferencing-maps-in-qgis/">Georeferencing Maps</a>
 
-![georeferencing-image](/assets/georeferencing.jpg)
+![georeferencing-image](../assets/georeferencing.jpg)
 - Project Description
     <p style="color:black;">This project was a mapathon-focused series aimed at providing a practical guide for participants on the practical elements that will enable them complete the georeferencing task on a scanned image of a map.</p>
 - Technologies Used
