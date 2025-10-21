@@ -5,23 +5,6 @@ title: Home
 
 ![featured-image](/assets/featured-image.jpg)
 
-<style>
-.h1 {
-  font-family: "Times New Roman", Times, serif;
-}
-
-.h2 {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.h3 {
-  font-family: "Lucida Console", "Courier New", monospace;
-}
-
-.p1 {
-  font-family: "Times New Roman", Times, serif;
-}
-</style>
 
 <h1>Reliance Enwerem</h1>
 
