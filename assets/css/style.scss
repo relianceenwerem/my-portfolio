@@ -26,16 +26,14 @@ p {
 
 header a.button {
 
-    background-color: orange; /* For browsers that do not support gradients */
-  background-image: linear-gradient(to bottom, #f9957f, #f2f5d0);
+    background: orange;
 
 }
 
 aside a.button {
 
-    background-color: orange; /* For browsers that do not support gradients */
-  background-image: linear-gradient(to bottom, #f9957f, #f2f5d0);
-
+    background: orange;
+    
 }
 
 #main-content h2:before {
