@@ -38,11 +38,11 @@ title: Home
 
 <h1>Bio</h1>
 
-<p>Reliance Enwerem is an interdisciplinary researcher and communicator whose work bridges digital humanities, scientific and technical communication, and risk communications. Reliance studies how digital technologies, language, and data shape public understanding of health, science, and risk in global contexts.</p>
+<p style="color:black;">Reliance Enwerem is an interdisciplinary researcher and communicator whose work bridges digital humanities, scientific and technical communication, and risk communications. Reliance studies how digital technologies, language, and data shape public understanding of health, science, and risk in global contexts.</p>
 
-<p>Her research integrates critical digital literacy, AI ethics, and data analytics & visualization to explore how people engage with information systems across cultures. Reliance contributes to nonprofit and academic projects advancing data-driven health communication, advocacy, and sustainability. She also analyzes how emerging technologies influence access, equity, and trust in digital and institutional environments.</p>
+<p style="color:black;">Her research integrates critical digital literacy, AI ethics, and data analytics & visualization to explore how people engage with information systems across cultures. Reliance contributes to nonprofit and academic projects advancing data-driven health communication, advocacy, and sustainability. She also analyzes how emerging technologies influence access, equity, and trust in digital and institutional environments.</p>
 
-<p>Combining computational methods and rhetorical inquiry, Reliance’s scholarship reimagines how organizations and communities can communicate risk more effectively and inclusively. Her long-term goal is to contribute to organizations working to build global communication systems that promote equity and public well-being.</p>
+<p style="color:black;">Combining computational methods and rhetorical inquiry, Reliance’s scholarship reimagines how organizations and communities can communicate risk more effectively and inclusively. Her long-term goal is to contribute to organizations working to build global communication systems that promote equity and public well-being.</p>
 
 <h1> Skills </h1>
 <div id ="SKILLS">
