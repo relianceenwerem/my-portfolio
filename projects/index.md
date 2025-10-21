@@ -8,7 +8,7 @@ permalink: /projects/
 
 ## I. <a href="https://millmarginalia.org/">Mill Marginalia</a>
 
-![mill-marginalia](/assets/mill-marginalia.jpg)
+![mill-marginalia](../assets/mill-marginalia.jpg)
 
 - Project Description
   <p style="color:black;"> This project is a multi-faceted open access digital resource showcasing the manuscript marginalia written in texts by both J. S. Mill and his father, enabling researchers and students to read these alongside scholarly writing about these materials.</p>
@@ -20,7 +20,7 @@ permalink: /projects/
 
 ## II. <a href="https://criticaldigitalliteracies.omeka.net/">Digital Storytelling Website</a>
 
-![cdl.omeka-image](/assets/cdl.omeka.png)
+![cdl.omeka-image](../assets/cdl.omeka.png)
 - Project Description
     <p style="color:black;"> Explores digital storytelling and embodiment in AI technologies. This website was build as part of my master's capstone advancing critical embodiment in AI (mis)representations.</p>
 - Technologies Used
