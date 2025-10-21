@@ -16,8 +16,8 @@
 
 header {
 
-    background: linear-gradient(to right, #f7935c, #ee4c5a);
-
+    background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to bottom, red, yellow);
 }
 
 p {
@@ -26,13 +26,15 @@ p {
 
 header a.button {
 
-    background: #b7a9a9;
+    background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to bottom, red, yellow);
 
 }
 
 aside a.button {
 
-    background: #91766e;
+    background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to bottom, red, yellow);;
 
 }
 
@@ -65,15 +67,6 @@ aside a.button {
     color: black;
 
   }
-  <style>
-h1, h2, h3 {
-  font-family: {{ site.fonts.heading }};
-}
-
-p {
-  font-family: {{ site.fonts.body }};
-}
-</style>
 
 
 
