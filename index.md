@@ -2,6 +2,13 @@
 layout: default
 title: Home
 ---
+<style>
+img {
+  border-radius: 50px;
+  max-width: 70%;
+  height: auto;
+}
+</style>
 
 ![featured-image](/assets/featured-image.jpg)
 
