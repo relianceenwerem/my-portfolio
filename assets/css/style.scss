@@ -16,7 +16,7 @@
 
 header {
 
-    background:  #91766e;
+    background: linear-gradient(to right, #f7935c, #ee4c5a);
 
 }
 
@@ -65,6 +65,16 @@ aside a.button {
     color: black;
 
   }
+  <style>
+h1, h2, h3 {
+  font-family: {{ site.fonts.heading }};
+}
+
+p {
+  font-family: {{ site.fonts.body }};
+}
+</style>
+
 
 
 /* ==== Original (static version) ==== */
