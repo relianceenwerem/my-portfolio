@@ -4,6 +4,15 @@
 @import 'jekyll-theme-architect';
 
 
+/* Kill any pseudo-element that might add a slash before headings */
+#main-content h1::before,
+#main-content h2::before,
+#main-content h3::before,
+#main-content h4::before,
+#main-content h5::before,
+#main-content h6::before {
+  display: none !important;
+}
 
 header {
 
@@ -12,48 +21,48 @@ header {
 }
 
 p {
-  color: black;
+  color: rgb(172, 72, 172);
 }
 
 header a.button {
 
-    background: darkred;
+    background: green;
 
 }
 
 aside a.button {
 
-    background: darkred;
+    background: darkgreen;
 
 }
 
 #main-content h2:before {
 
-    color: black;
+    color: lightgreen;
 
 }
 
 #main-content h1:before {
 
-    color: black;
+    color: lightgreen;
 
 }
 
 #main-content h3 {
 
-    color: black;
+    color: lightgreen;
 
   }
 
   #main-content h4 {
 
-    color: black;
+    color: lightgreen;
 
   }
 
   #main-content h6 {
 
-    color: black;
+    color: lightgreen;
 
   }
 
@@ -68,37 +77,21 @@ aside a.button {
  */
 
 /* ==== Animated version ==== */
-/* The outer container hides anything that sticks out due to rotation */
-#home-container {
-  overflow: hidden;
-  position: relative;
-  border-radius: 20px; /* same radius as inner element */
-}
 
 #home {
   background: linear-gradient(135deg, #ff6ec4, #7873f5); 
-  color: black; 
+  color: white; 
   text-align: center;
   padding: 40px;
   border-radius: 20px;
-  /* remove actual border */
-  position: relative;
+  border: 4px dashed yellow;
   text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
   font-size: 3em;
-  transform: rotate(-2deg);
+  transform: rotate(-2deg); 
   animation: bounce 1.5s infinite alternate;
 }
 
-/* simulate dashed border with a pseudo-element (stays clean under rotation) */
-#home::before {
-  content: "";
-  position: absolute;
-  top: 0; left: 0; right: 0; bottom: 0;
-  border: 4px dashed yellow;
-  border-radius: 20px;
-  pointer-events: none;
-}
 @keyframes bounce {
-  0% { transform: rotate(-2deg) translateY(0); }
-  100% { transform: rotate(2deg) translateY(-10px); }
+  from { transform: translateY(0) rotate(-2deg); }
+  to   { transform: translateY(-10px) rotate(2deg); }
 }
