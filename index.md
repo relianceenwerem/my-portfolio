@@ -35,12 +35,13 @@ title: Home
     <span style="color:#3399ff;"><u>re994772@ucf.edu</u> | +1 659 239 1722 | <a href="www.linkedin.com/in/reliance-enwerem">My Linkedin Profile</a></span>
   </p>
 
-# Bio
-Reliance Enwerem is an interdisciplinary researcher and communicator whose work bridges digital humanities, scientific and technical communication, and risk communications. Reliance studies how digital technologies, language, and data shape public understanding of health, science, and risk in global contexts.
+<h1>Bio</h1>
 
-Her research integrates critical digital literacy, AI ethics, and data analytics & visualization to explore how people engage with information systems across cultures. Reliance contributes to nonprofit and academic projects advancing data-driven health communication, advocacy, and sustainability. She also analyzes how emerging technologies influence access, equity, and trust in digital and institutional environments.
+<p>Reliance Enwerem is an interdisciplinary researcher and communicator whose work bridges digital humanities, scientific and technical communication, and risk communications. Reliance studies how digital technologies, language, and data shape public understanding of health, science, and risk in global contexts.</p>
 
-Combining computational methods and rhetorical inquiry, Reliance’s scholarship reimagines how organizations and communities can communicate risk more effectively and inclusively. Her long-term goal is to contribute to organizations working to build global communication systems that promote equity and public well-being.
+<p>Her research integrates critical digital literacy, AI ethics, and data analytics & visualization to explore how people engage with information systems across cultures. Reliance contributes to nonprofit and academic projects advancing data-driven health communication, advocacy, and sustainability. She also analyzes how emerging technologies influence access, equity, and trust in digital and institutional environments.</p>
+
+<p>Combining computational methods and rhetorical inquiry, Reliance’s scholarship reimagines how organizations and communities can communicate risk more effectively and inclusively. Her long-term goal is to contribute to organizations working to build global communication systems that promote equity and public well-being.</p>
 
 <h1> Skills </h1>
 <div id ="SKILLS">
@@ -117,10 +118,10 @@ Combining computational methods and rhetorical inquiry, Reliance’s scholarship
 <h1>Conference Presentations and Publications</h1>
 <div id ="CONFERENCE PRESENTATIONS AND PUBLICATIONS">
     <ul>
-      <li>Computers & Writing Conference, “Digital Storytelling: Advancing Critical Embodiment in AI (Mis)Representations,” Fort Worth, Texas, June 22, 2024. <a href:="https://criticaldigitalliteracies.omeka.net/">Critical digital literacies.omeka</a> </li>
+      <li>Computers & Writing Conference, “Digital Storytelling: Advancing Critical Embodiment in AI (Mis)Representations,” Fort Worth, Texas, June 22, 2024. <a href:="https://www.criticaldigitalliteracies.omeka.net/">Critical digital literacies.omeka</a> </li>
       <li>Southeastern Writing Centre Association (SWCA) Conference, “Writing Center Movements: Keeping Up with AI in the Writing Center,” Decatur, Georgia, February 23, 2024.</li>	
       <li>Southeastern Writing Centre Association (SWCA) Conference, “Online Tutoring: Strategies to Improve Collaboration and Communication,” Decatur, Georgia, February 23, 2024.</li>
-      <li>•	Southeastern Writing Centre Association (SWCA) Conference, “Online Tutoring: Strategies to Improve Collaboration and Communication,” Decatur, Georgia, February 23, 2024.</li>	
+      <li>Southeastern Writing Centre Association (SWCA) Conference, “Online Tutoring: Strategies to Improve Collaboration and Communication,” Decatur, Georgia, February 23, 2024.</li>	
       <li>The University of Alabama Language Conference (UALC), “Glocalization: The Dynamics of Power and Technology in the Spread of Englishes,” Tuscaloosa, Alabama, February 10, 2024.</li>
       <li>The University of Alabama American/Cultural Studies Conference, “Transnational Consciousness as a Counter-Narrative to Essentialist Nationalism,” Tuscaloosa, Alabama, February 9, 2024.</li>
       <li>Ekundayo, O. O. S., & Enwerem, R. C. (2021). Writing Naija Right: A Critical Comparative Review of Naija Orthographies. Journal of the Linguistic Association of Nigeria, 24(2), 82–98. </li>
@@ -130,7 +131,7 @@ Combining computational methods and rhetorical inquiry, Reliance’s scholarship
 <h1>Awards</h1>
 <div id ="AWARDS">
     <ul>
-      <li>	University of Central Florida Trustees Doctoral Fellowship</li>	
+      <li>University of Central Florida Trustees Doctoral Fellowship</li>	
       <li>Award of Excellence, Achieving Health Nigeria Initiative</li>	
       <li>NASA Open Science badge, NASA Transform to Open Science (TOPS)</li>	
       <li>Southeastern Writing Center Association Tom Waldrep Travel Scholarship</li>
