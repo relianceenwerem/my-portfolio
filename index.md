@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Reliance Enwerem Portfolio
 ---
 
 <style type = "text/css">
@@ -18,7 +18,7 @@ img {
 </style>
 
 
-![featured-image](/assets/featured-image.jpg)
+![featured-image](/assets/featured-image-2.png)
 
 
 # Home
