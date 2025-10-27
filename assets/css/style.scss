@@ -16,68 +16,60 @@
 
 header {
 
-    background-color: orange; /* For browsers that do not support gradients */
-  background-image: linear-gradient(to right, #17ead9, #6078ea);
+    background: black;
+
 }
 
 p {
-  color: #0000;
+  color: rgb(172, 72, 172);
   font-family: 'Courier New', Courier, monospace;
+}
+
+ul {
+  font-family: 'Courier New', Courier, monospace;  
 }
 
 header a.button {
 
-    background: #273f5b;
+    background: green;
 
 }
 
 aside a.button {
 
-    background: #273f5b;
-    
-}
-#main-content header:before {
-
-    color: black;
-    font-family: 'Courier New', Courier, monospace;
+    background: darkgreen;
 
 }
 
 #main-content h2:before {
 
-    color: black;
-    font-family: 'Courier New', Courier, monospace;
+    color: lightgreen;
 
 }
 
 #main-content h1:before {
 
-    color: black;
-    font-family: 'Courier New', Courier, monospace;
+    color: lightgreen;
 
 }
 
 #main-content h3 {
 
-    color: black;
-    font-family: 'Courier New', Courier, monospace;
+    color: lightgreen;
 
   }
 
   #main-content h4 {
 
-    color: black;
-    font-family: 'Courier New', Courier, monospace;
+    color: lightgreen;
 
   }
 
   #main-content h6 {
 
-    color: black;
-    font-family: 'Courier New', Courier, monospace;
+    color: lightgreen;
 
   }
-
 
 
 /* ==== Original (static version) ==== */
