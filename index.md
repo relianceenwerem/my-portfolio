@@ -3,6 +3,24 @@ layout: default
 title: Home
 ---
 
+<style type = "text/css">
+
+  .featured-image.jpg
+  {
+    float: left;
+  }
+
+img {
+  border-radius: 50px;
+  max-width: 50%;
+  height: auto;
+}
+</style>
+
+
+![featured-image](/assets/featured-image.jpg)
+
+
 # Home
 
 ---
