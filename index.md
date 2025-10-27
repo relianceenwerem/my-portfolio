@@ -61,8 +61,8 @@ I’m currently developing a project that investigates how digital and rhetorica
 
 If you’d like to collaborate, chat about digital writing, or learn more about my work, feel free to reach out:
 
-📧 [[relianceenwerem@gmail.com](mailto:relianceenwerem@gmail.com)]
-🔗 [www.linkedin.com/in/reliance-enwerem](#) • [0009-0001-2075-4024](#) • [GitHub](https://github.com/relianceenwerem)
+📧 [relianceenwerem@gmail.com](mailto:relianceenwerem@gmail.com)
+🔗 [www.linkedin.com/in/reliance-enwerem](#) • [ORC ID](0009-0001-2075-4024) • [GitHub](https://github.com/relianceenwerem)
 
 ---
 
