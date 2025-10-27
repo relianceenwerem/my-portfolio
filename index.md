@@ -18,14 +18,14 @@ img {
 </style>
 
 
-![featured-image](/assets/featured-image-2.png)
-
 
 # Home
 
 ---
 
 ### **Welcome to My Digital Portfolio**
+
+![featured-image](/assets/featured-image-2.png)
 
 Hello! I’m **Reliance Enwerem**, a writer, researcher, and educator exploring the intersections of **technology, literacy, and science communication**. This site showcases my ongoing projects, teaching materials, and scholarly work in scietific and technical communication, digital humanities, and digital rhetoric.
 

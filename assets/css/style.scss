@@ -3,6 +3,7 @@
 
 @import 'jekyll-theme-cayman';
 
+
 ---
 ---
 
@@ -81,8 +82,9 @@ aside a.button {
   color: white;
   padding: 20px;
   text-align: center;
+ }
 
-  disactivated:
+  disactivated code:
 #home {
   background: linear-gradient(135deg, #ff6ec4, #7873f5); 
   color: white; 
