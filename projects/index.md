@@ -33,7 +33,7 @@ As a research assistant on this digitization project, Reliance devloped a visual
 ![cdl.omeka-image](../assets/cdl.omeka.png)
 **GenAI Literacy / Rhetoric and Composition / Pedagogical Research / Web Design Project - Spring '25**
 
-*This project explores digital storytelling and embodiment in AI technologies. This website was build as part of my master's capstone advancing critical embodiment in AI (mis)representations.*
+*This project explores digital storytelling and embodiment in AI technologies. This website was built as part of my master's capstone advancing critical embodiment in AI (mis)representations.*
 
 - Built using Omeka, Canva, and MS PowerPoint 
 - Prompt engineering via Wepik AI, Adobe AI, Dall-E
