@@ -45,7 +45,7 @@ This portfolio serves as both a **professional showcase** and an **experimental 
 
 * **[Projects](projects/)** – Research and creative work highlighting digital rhetoric, interface design, and online authorship.
 * **[Teaching](teaching/)** – Sample syllabi, assignments, and reflections on pedagogy in digital contexts.
-* **[Publications](Publications/)** *(optional)* – Informal reflections, class updates, and posts about digital culture.
+* **[Research](research/)** – Conferences, Publications & Research Activity.
 
 All content is built using **Markdown**, **GitHub Pages**, and **Jekyll**, demonstrating how web literacies intersect with scholarly communication.
 

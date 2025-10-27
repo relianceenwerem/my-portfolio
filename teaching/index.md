@@ -8,6 +8,7 @@ permalink: /teaching/
 
 ### EN 103-320, Advanced English Composition
 **University of Alabama - Fall 2024**
+
 *Instructor of Record*
 
 Designed and led a first-year composition course emphasizing rhetorical awareness, digital literacy, and multimodal writing.
