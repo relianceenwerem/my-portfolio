@@ -3,10 +3,9 @@ layout: default
 title: Reliance Enwerem
 ---
 
-<style type = "text/css">
+<style>
 
-  .featured-image.jpg
-  {
+  .featured-image.jpg {
     float: left;
   }
 
@@ -14,7 +13,7 @@ img {
   border-radius: 30px;
   max-width: 10%;
   height: auto;
-}
+  }
 </style>
 
 
