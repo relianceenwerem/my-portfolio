@@ -11,8 +11,8 @@ title: Reliance Enwerem Portfolio
   }
 
 img {
-  border-radius: 50px;
-  max-width: 50%;
+  border-radius: 30px;
+  max-width: 10%;
   height: auto;
 }
 </style>
