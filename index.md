@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reliance Enwerem Portfolio
+title: Reliance Enwerem
 ---
 
 <style type = "text/css">
