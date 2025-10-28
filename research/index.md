@@ -33,7 +33,7 @@ permalink: /research/
 
 
 ## Publications
-- Enwerem, Reliance. “Transnational Consciousness as A Counter-Narrative to Essentialist Nationalism.” Contours of Being and Becoming: Identity, Memory, and Cultural Encounters, edited by Abdelhak Jebbar and Najah Mahmi, Westphalia Press, 2025.
+- Enwerem, Reliance. “Transnational Consciousness as A Counter-Narrative to Essentialist Nationalism.” *Contours of Being and Becoming: Identity, Memory, and Cultural Encounters,* edited by Abdelhak Jebbar and Najah Mahmi, Westphalia Press, 2025.
 - Ekundayo, O. O. S., & Enwerem, R. C. (2021). Writing Naija Right: A Critical Comparative Review of Naija Orthographies. *Journal of the Linguistic Association of Nigeria,* 24(2), 82–98.
 
 
