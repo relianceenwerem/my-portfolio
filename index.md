@@ -52,7 +52,7 @@ All content is built using **Markdown**, **GitHub Pages**, and **Jekyll**, demon
 
 ### **Current Work**
 
-I’m currently developing a project that investigates how digital and rhetorical practices influence the way people understand and respond to risk communication, particularly in health and crisis contexts. I'm interested in the intersection of digital humanities and technical communication, using archival research and digital methods to trace how narratives of disease, contagion, and responsibility circulate over time and across media. This research bridges **digital humanities**, **rhetoric and composition**, and **science communication**.
+I’m currently developing a project, "Advancing Health Access: An Analysis of Interface Rhetorics in Nigerian-led Telemedicine Platforms" to investigate how digital and rhetorical practices influence the way people understand and respond to risk communication, particularly in health and crisis contexts. I'm interested in the intersection of digital humanities and technical communication, using archival research and digital methods to trace how narratives of disease, contagion, and responsibility circulate over time and across media. This research bridges **digital humanities**, **rhetoric and composition**, and **science communication**.
 
 ---
 
