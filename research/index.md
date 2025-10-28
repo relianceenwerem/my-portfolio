@@ -17,7 +17,7 @@ permalink: /research/
   
 - Conference on College Composition & Communication (CCCC), “Modeling the integration of generative AI (genAI) tools into the first-year composition class,” Baltimore, Maryland, April 11, 2025. [Co-Presenter]
 
-- Intersections | Cross-Sections (ISCS), “Investigating Contact Zones in Rhetoric & Composition Programs,” Toronto, Canada, March 14, 2025. 
+- Intersections, Cross-Sections (ISCS), “Investigating Contact Zones in Rhetoric & Composition Programs,” Toronto, Canada, March 14, 2025. 
 
 - The University of Alabama Digital Humanities Conference, Digitorium, “The Role of Peer-to-Peer Learning and Mentorship in Accelerating Skills Acquisition in Digital Humanities,” Tuscaloosa, Alabama, September 13, 2024.
   
