@@ -3,20 +3,6 @@ layout: default
 title: Reliance Enwerem
 ---
 
-<style>
-
-  .featured-image.jpg {
-    float: left;
-  }
-
-img {
-  border-radius: 30px;
-  max-width: 10%;
-  height: auto;
-  }
-</style>
-
-
 
 # Home
 
@@ -24,7 +10,7 @@ img {
 
 ### **Welcome to My Digital Portfolio**
 
-![featured-image](/assets/featured-image-2.png)
+![featured-image](/assets/featured-image-sm-2.jpg)
 
 **Reliance Enwerem** is a researcher, data analyst, and educator exploring the intersections of **technology, literacy, and science communication**. A Doctoral Student at The University of Central Florida, this site showcases her ongoing projects, teaching materials, and scholarly work in scietific and technical communication, digital humanities, and digital rhetoric.
 
