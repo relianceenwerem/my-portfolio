@@ -42,14 +42,17 @@ As a research assistant on this digitization project, Reliance devloped a visual
 ## IV. Mapping Epidemic Discourse in Nigeria
 
 **Risk Communications / Health Humanities / Independent Project - Summer '25**
+
 *Spatial analysis and visualization of Malaria incidence in Nigeria with focus on the South Eastern region*
 
 ![cdl.omeka-image](../assets/malaria-analysis_SE%202019.png)
 ![cdl.omeka-image](../assets/malaria-analysis_SE_2020.png)
 
-*Design an interactive map to visualize temperature interpolation in Nigeria, July 2025*
+*Designed an interactive map to visualize temperature interpolation in Nigeria, July 2025*
+
 
 ![temp-interpolation](../assets/temp-interpolation.png)
+
 
 - Engaged QGIS, ArcGIS, and MS PowerPoint 
 - Built data collection forms using ODK / KoboCollect
