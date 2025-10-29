@@ -48,11 +48,6 @@ As a research assistant on this digitization project, Reliance devloped a visual
 ![cdl.omeka-image](../assets/malaria-analysis_SE%202019.png)
 ![cdl.omeka-image](../assets/malaria-analysis_SE_2020.png)
 
-*Designed an interactive map to visualize temperature interpolation in Nigeria, July 2025*
-
-![temp-interpolation](../assets/temp-interpolation.png)
-
-
 - Engaged QGIS, ArcGIS, and MS PowerPoint 
 - Built data collection forms using ODK / KoboCollect
 
