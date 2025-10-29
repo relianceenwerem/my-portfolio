@@ -50,8 +50,7 @@ As a research assistant on this digitization project, Reliance devloped a visual
 
 *Designed an interactive map to visualize temperature interpolation in Nigeria, July 2025*
 
-
-![temp-interpolation](../assets/temp-interpolation.png)
+![temp-interpolation](/assets/temp-interpolation.png)
 
 
 - Engaged QGIS, ArcGIS, and MS PowerPoint 
