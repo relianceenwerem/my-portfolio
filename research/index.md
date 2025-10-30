@@ -31,11 +31,11 @@ permalink: /research/
 
 ## Professional Leadership Activities
 - *Doctoral Fellow,* University of Central Florida, Aug 2025-2029
-- *Delegate,* United Nations Economic and Social Council Youth Forum (UN ECOSOC)	April 2025
+- *Delegate,* United Nations Economic and Social Council Youth Forum (UN ECOSOC)	Apr 2025
 - *President,* English Graduate Organization (EGO), The University of Alabama,	May 2024 – May 2025
 - *Senator,* Grad School Representative, UA Student Government Association,	May 2024 – May 2025
-- *Judge,* The University of Alabama Undergraduate Research and Activity Conference (URCA), March 2024.
-- *Committee Member,* Bama Days of Service & Bynam Speaker Series Planning Committee,	Jan 2024 - April 2024
+- *Judge,* The University of Alabama Undergraduate Research and Activity Conference (URCA), Mar 2024.
+- *Committee Member,* Bama Days of Service & Bynam Speaker Series Planning Committee,	Jan 2024 - Apr 2024
 
 ## Awards
 - University of Central Florida Trustees Doctoral Fellowship	
