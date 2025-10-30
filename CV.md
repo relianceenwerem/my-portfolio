@@ -11,9 +11,7 @@ permalink: /cv/
 ## Education
 
 - The University of Central Florida, Orlando, Florida, USA, *PhD, Scientific & Technical Communication, Texts & Technology*  - May 2029 (Expected)	
-
 - The University of Alabama, Tuscaloosa, Alabama, USA, *Master of Arts, English* - May 2025
-
 - University of Benin, Benin City, Edo State, Nigeria, *Bachelor of Arts, English and Literature* - Dec 2019
 
 ## Skills
