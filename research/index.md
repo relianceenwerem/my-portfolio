@@ -17,7 +17,7 @@ permalink: /research/
 - Conference on College Composition & Communication (CCCC), “Modeling the integration of generative AI (genAI) tools into the first-year composition class,” Baltimore, Maryland, April 11, 2025. [Co-Presenter]
 - Intersections, Cross-Sections (ISCS), “Investigating Contact Zones in Rhetoric & Composition Programs,” Toronto, Canada, March 14, 2025. 
 - The University of Alabama Digital Humanities Conference, Digitorium, “The Role of Peer-to-Peer Learning and Mentorship in Accelerating Skills Acquisition in Digital Humanities,” Tuscaloosa, Alabama, September 13, 2024.
-- Computers & Writing Conference, “Digital Storytelling: Advancing Critical Embodiment in AI (Mis)Representations,” Fort Worth, Texas, June 22, 2024. [https://www.criticaldigitalliteracies.omeka.net/](https://www.criticaldigitalliteracies.omeka.net/)
+- Computers & Writing Conference, “Digital Storytelling: Advancing Critical Embodiment in AI (Mis)Representations,” Fort Worth, Texas, June 22, 2024. [criticaldigitalliteracies.omeka.net/](https://criticaldigitalliteracies.omeka.net/)
 - Southeastern Writing Centre Association (SWCA) Conference, “Writing Center Movements: Keeping Up with AI in the Writing Center,” Decatur, Georgia, February 23, 2024. [Panelist]
 - Southeastern Writing Centre Association (SWCA) Conference, “Online Tutoring: Strategies to Improve Collaboration and Communication,” Decatur, Georgia, February 23, 2024. [Co-Presenter]
 - The University of Alabama Language Conference (UALC), “Glocalization: The Dynamics of Power and Technology in the Spread of Englishes,” Tuscaloosa, Alabama, February 10, 2024. 
