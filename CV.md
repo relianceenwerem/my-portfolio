@@ -48,7 +48,7 @@ permalink: /cv/
 - 	Produced promotional materials and knowledge-sharing content for stakeholders.
 
 ## Leadership Experience (Selected)
-- *Fellow,* University of Central Florida - Apr 2025
+- *Fellow,* University of Central Florida - Aug 2025 - Present
 - *Delegate,* United Nations Economic and Social Council Youth Forum (UN ECOSOC) - Apr 2025
 - *President,* English Graduate Organization (EGO), The University of Alabama - May 2024 – May 2025
 - *Senator,* Grad School Representative, UA Student Government Association - May 2024 – May 2025
