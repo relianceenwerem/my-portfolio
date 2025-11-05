@@ -46,7 +46,7 @@ Reliance is currently developing a project, "Advancing Health Access: An Analysi
 
 If you’d like to collaborate, chat about digital humanities, AI & communications or learn more about my work, feel free to reach out:
 
-📧 [relianceenwerem[at]gmail[dot]com](mailto:relianceenwerem@gmail.com)
+📧 [re994772[at]ucf[dot]edu](mailto:re994772@ucf.edu)
 🔗 [LinkedIn](www.linkedin.com/in/reliance-enwerem) • [ORC ID](0009-0001-2075-4024) • [GitHub](https://github.com/relianceenwerem)
 
 ---
