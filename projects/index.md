@@ -17,15 +17,16 @@ As a research assistant on this digitization project, Reliance devloped a visual
   
 - Utilized Power BI and MS Excel for data analysis, cleaning, and visualization
 - Engaged with Adobe for marginalia digitization
+- Documented marginalia digitization processes
 
-## II. [Georeferencing Maps](https://adhc.lib.ua.edu/mapathon-day-02-georeferencing-maps-in-qgis/)
+## II. [Documentation for Georeferenced Maps](https://adhc.lib.ua.edu/mapathon-day-02-georeferencing-maps-in-qgis/)
 **Public Humanities / Digital Humanities Project - Summer '24**
 ![georeferencing-image](../assets/georeferencing.jpg)
 
 *A mapathon-focused series aimed at providing a practical guide for mapathon participants on practical elements that will enable them complete the georeferencing task on a scanned image of a map.*
 
-- Utilized Geographic Information Systems tools- QGIS for georeferncing Tuscaloosa maps
-- Integrated Scribe for georeferencing documentation
+- Utilized Scribe for georeferencing documentation
+- Engaged Geographic Information Systems tools- QGIS for georeferncing Tuscaloosa maps
 
 
 ## III. [Digital Storytelling & Critical Digital Literacy](https://criticaldigitalliteracies.omeka.net/)

@@ -12,7 +12,7 @@ title: Reliance Enwerem
 
 ![featured-image](/assets/friendly-image-git.jpg)
 
-**Reliance Enwerem** is a researcher, data analyst, and educator exploring the intersections of **technology, literacy, and science communication**. A Doctoral Student at The University of Central Florida, this site showcases her ongoing projects, teaching materials, and scholarly work in scietific and technical communication, digital humanities, and digital rhetoric.
+Reliance Enwerem is a researcher, data analyst, and technical Writer exploring the intersections of technology, literacy, and science communication. A Doctoral Student at The University of Central Florida, this site showcases her ongoing projects, teaching materials, and scholarly work in scietific and technical communication, digital humanities, and digital rhetoric.
 
 Her work focuses on how digital technologies and communication systems shape public understanding, access, and agency—from risk communication in global health to AI literacy and digital writing practices. She is especially interested in questions like:
 
@@ -26,9 +26,9 @@ Her work focuses on how digital technologies and communication systems shape pub
 
 ### **About This Site**
 
-This portfolio serves as both a **professional showcase** and an **experimental space** for exploring the affordances of web-based composition and examining how digital environments shape communication, design, and meaning-making. You’ll find:
+This portfolio serves as both a professional showcase and an experimental space for exploring the affordances of web-based composition and examining how digital environments shape communication, design, and meaning-making. You’ll find:
 
-* **[Projects](projects/)** – Research and creative work highlighting digital rhetoric, interface design, and online authorship.
+* **[Projects](projects/)** – Research and creative work highlighting technical writing, digital rhetoric, interface design, and computational analysis.
 * **[Teaching](teaching/)** – Sample syllabi, assignments, and reflections on pedagogy in digital contexts.
 * **[Research](research/)** – Conferences, Publications & Research Activity.
 
