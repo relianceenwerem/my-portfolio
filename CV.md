@@ -6,7 +6,7 @@ permalink: /cv/
 
 ## Reliance Enwerem
 
-[re994772[at]ucf[dot]edu](mailto:re994772@ucf.edu) •  [LinkedIn](https://www.linkedin.com/in/reliance-enwerem/) • [ORC ID](https://orcid.org/0009-0001-2075-4024/) • [GitHub](https://github.com/relianceenwerem)
+[re994772[at]ucf[dot]edu](mailto:re994772@ucf.edu) • [LinkedIn](https://www.linkedin.com/in/reliance-enwerem/) • [ORC ID](https://orcid.org/0009-0001-2075-4024/) • [GitHub](https://github.com/relianceenwerem)
 
 ## Education
 
