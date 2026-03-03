@@ -25,13 +25,15 @@ permalink: /research/
 
 
 ## Publications
+- Enwerem, R. C., & Amaefule, P. C. (2026). Rethinking Embodiment: Algorithmic Activisms and Critical Embodiment Pedagogy for Equitable AI Design. In C. D. M. Andrews, E. Kalodner-Martin, N. O'Connell, H. Wang, L. Wilkes, & C. Woods (Eds.), The Proceedings of the Computers and Writing Conference, 2025 (pp. 81–92). The WAC Clearinghouse. https://doi.org/10.37514/PCW-B.2026.2883.2.06
 - Enwerem, Reliance. “Transnational Consciousness as A Counter-Narrative to Essentialist Nationalism.” *Contours of Being and Becoming: Identity, Memory, and Cultural Encounters,* edited by Abdelhak Jebbar and Najah Mahmi, Westphalia Press, 2025.
 - Ekundayo, O. O. S., & Enwerem, R. C. (2021). Writing Naija Right: A Critical Comparative Review of Naija Orthographies. *Journal of the Linguistic Association of Nigeria,* 24(2), 82–98.
 
 
 ## Professional Leadership Activities
 - *Doctoral Fellow,* University of Central Florida, Aug 2025-2029
-- *Delegate,* United Nations Economic and Social Council Youth Forum (UN ECOSOC)	Apr 2025
+- *Peer Reviewer,* 2026 Computers and Writing Conference, (Dec 2025 - Jan 2026)
+- *Delegate,* United Nations Economic and Social Council Youth Forum (UN ECOSOC),	Apr 2025
 - *President,* English Graduate Organization (EGO), The University of Alabama,	May 2024 – May 2025
 - *Senator,* Grad School Representative, UA Student Government Association,	May 2024 – May 2025
 - *Judge,* The University of Alabama Undergraduate Research and Activity Conference (URCA), Mar 2024.

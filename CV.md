@@ -22,6 +22,13 @@ permalink: /cv/
 - 	Cross-functional collaboration and project management using Slack, Trello, and Microsoft 365 to coordinate design, research, and communication deliverables
 
 ## Relevant Work Experience
+**Graduate Student Assistant**
+*UCF Libraries, Digital Exploration Center (DEC), Florida - Jan 2026 - Present*
+- Archival data collection for a digital humanities project on the Spanish Influenza and communication (1918-1920)
+- Co-designing technical documentation for the center’s studio, equipment, and software use.
+- Provide support to faculty and students using the podcast studio, immersion studio, and XR stations. 
+- Support web design and development for the DH Project using Bootstrap.
+
 **Assistant Director**
 *The University of Alabama Writing Center, Alabama - May 2024 – May 2025*
 - 	Designed and conducted user-centered research to assess student and faculty needs, informing the university writing center content and service improvements.
