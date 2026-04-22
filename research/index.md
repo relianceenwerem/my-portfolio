@@ -13,6 +13,7 @@ permalink: /research/
 
 
 ## Conference Presentations
+- The Symposium on Communicating Complex Information (SCCI), "Rehumanizing Data: How the Digital Humanities Can Serve as an Antidote to Datafication," New York, USA, April 14, 2026. [Poster presentation] 
 - 4th World Conference on Transformative Education (WCTE), "Rethinking Education: Threshold Concepts and AI in Nigeria’s Writing Classrooms," Johannesburg, South Africa (Virtual), July 4, 2025. [Co-Presenter] 
 - Conference on College Composition & Communication (CCCC), “Modeling the integration of generative AI (genAI) tools into the first-year composition class,” Baltimore, Maryland, April 11, 2025. [Co-Presenter]
 - Intersections, Cross-Sections (ISCS), “Investigating Contact Zones in Rhetoric & Composition Programs,” Toronto, Canada, March 14, 2025. 
