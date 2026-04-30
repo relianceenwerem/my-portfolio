@@ -63,10 +63,11 @@ permalink: /cv/
 - *Committee Member,* Bama Days of Service and Bynam Speaker Series Planning Committee & Bama Days of Service - Jan 2024 - Apr 2024
 
 ## Conference Presentations and Publications (Selected)
-- 	Conference on College Composition & Communication (CCCC), “Modeling the integration of generative AI (genAI) tools into the first-year composition class,” Baltimore, Maryland, April 11, 2025.
+- 	The Symposium on Communicating Complex Information (SCCI), "Rehumanizing Data: How the Digital Humanities Can Serve as an Antidote to Datafication," New York, USA, April 14, 2026.
+-   Enwerem, R. C., & Amaefule, P. C. (2026). Rethinking Embodiment: Algorithmic Activisms and Critical Embodiment Pedagogy for Equitable AI Design. In C. D. M. Andrews, E. Kalodner-Martin, N. O'Connell, H. Wang, L. Wilkes, & C. Woods (Eds.), The Proceedings of the Computers and Writing Conference, 2025 (pp. 81–92). The WAC Clearinghouse. https://doi.org/10.37514/PCW-B.2026.2883.2.06
+-   Conference on College Composition & Communication (CCCC), “Modeling the integration of generative AI (genAI) tools into the first-year composition class,” Baltimore, Maryland, April 11, 2025.
 - 	Computers & Writing Conference, “Digital Storytelling: Advancing Critical Embodiment in AI (Mis)Representations,” Fort Worth, Texas, June 22, 2024. https://criticaldigitalliteracies.omeka.net/ 
 - 	Southeastern Writing Centre Association (SWCA) Conference, “Writing Center Movements: Keeping Up with AI in the Writing Center,” Decatur, Georgia, February 23, 2024.
-- 	Ekundayo, O. O. S., & Enwerem, R. C. (2021). Writing Naija Right: A Critical Comparative Review of Naija Orthographies. Journal of the Linguistic Association of Nigeria, 24(2), 82–98. 
 
 ## Awards (Selected)
 - 	University of Central Florida Trustees Doctoral Fellowship (2025)

@@ -12,15 +12,19 @@ title: Reliance Enwerem
 
 ![featured-image](/assets/friendly-image-git.jpg)
 
-Reliance Enwerem is a researcher, data analyst, and technical Writer exploring the intersections of technology, literacy, and science communication. A Doctoral Student at The University of Central Florida, this site showcases her ongoing projects, teaching materials, and scholarly work in scietific and technical communication, digital humanities, and digital rhetoric.
+I am Doctoral Fellow in the Texts & Technology program at the University of Central Florida. My interdisciplinary research intersects computational methods, digital rhetoric of technology designs, risk and crisis communication, and other forms of scientific and technical communication. 
 
-Her work focuses on how digital technologies and communication systems shape public understanding, access, and agency—from risk communication in global health to AI literacy and digital writing practices. She is especially interested in questions like:
+Her work focuses on how digital technologies and communication systems shape public understanding, access, and agency—from risk communication in global health to AI literacy and digital writing practices. My research investigates questions like:
 
 * How do people navigate risk, trust, and misinformation in digitally mediated environments?
 
 * What ethical and rhetorical challenges emerge when algorithms, archives, and public health communication intersect?
 
 * How can technical and digital communication advance equity, transparency, and participation across communities and platforms?
+
+Before my PhD, I worked with nonprofit health organizations in Nigeria, conducting data analysis and visualization to support stakeholder engagement and improve program implementation. That experience, translating health data into actionable insights for decision-makers in low-resource, high-need settings, grounds how I think about the relationship between evidence, communication, and practice. I currently volunteer with the Information & Planning Analytics Unit of the American Red Cross, where I support data analysis for humanitarian emergency response.
+
+I bring a hybrid toolkit to my work: computational text analysis, spatial data visualization, digital rhetoric, and strategic communication. I'm interested in collaborations that bridge research and practice; whether that's with academic partners, public health organizations, or nonprofits working at the frontlines of health communication.
 
 ---
 
