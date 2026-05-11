@@ -26,6 +26,7 @@ permalink: /research/
 
 
 ## Publications
+- Reliance Chekwubechukwu Enwerem. 2026. Review of "Transnational Assemblages: Social Justice and Crisis Communication During Disaster by Sweta Baniya," Baniya, S. (2024). Transnational assemblages: Social justice and crisis communication during disaster. National Council of Teachers of English. Commun. Des. Q. Rev 14, 1 (March 2026), 57–59. https://doi.org/10.1145/3794916.3794922
 - Enwerem, R. C., & Amaefule, P. C. (2026). Rethinking Embodiment: Algorithmic Activisms and Critical Embodiment Pedagogy for Equitable AI Design. In C. D. M. Andrews, E. Kalodner-Martin, N. O'Connell, H. Wang, L. Wilkes, & C. Woods (Eds.), The Proceedings of the Computers and Writing Conference, 2025 (pp. 81–92). The WAC Clearinghouse. https://doi.org/10.37514/PCW-B.2026.2883.2.06
 - Enwerem, Reliance. “Transnational Consciousness as A Counter-Narrative to Essentialist Nationalism.” *Contours of Being and Becoming: Identity, Memory, and Cultural Encounters,* edited by Abdelhak Jebbar and Najah Mahmi, Westphalia Press, 2025.
 - Ekundayo, O. O. S., & Enwerem, R. C. (2021). Writing Naija Right: A Critical Comparative Review of Naija Orthographies. *Journal of the Linguistic Association of Nigeria,* 24(2), 82–98.
