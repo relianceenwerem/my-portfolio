@@ -31,6 +31,31 @@ p {
   margin-bottom: 1rem;
 }
 
+/* ---------- Home: newspaper-style intro photo ---------- */
+
+.intro-photo {
+  float: left;
+  width: 260px;
+  max-width: 45%;
+  margin: 0.4rem 1.75rem 1rem 0;
+  border-radius: 8px;
+}
+
+/* Section dividers clear the float so each section starts fresh below the photo */
+hr {
+  clear: both;
+}
+
+@media (max-width: 600px) {
+  .intro-photo {
+    float: none;
+    display: block;
+    width: 70%;
+    max-width: 240px;
+    margin: 0 auto 1rem;
+  }
+}
+
 /* ---------- Projects: clickable card grid ---------- */
 
 .projects-intro {

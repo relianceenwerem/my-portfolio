@@ -22,6 +22,10 @@ permalink: /cv/
 - 	Cross-functional collaboration and project management using Slack, Trello, and Microsoft 365 to coordinate design, research, and communication deliverables
 
 ## Relevant Work Experience
+**Editorial Assistant**
+*College Composition, and Communication (CCC) Journal, Florida - May 2026 - Present*
+- 
+
 **Graduate Student Assistant**
 *UCF Libraries, Digital Exploration Center (DEC), Florida - Jan 2026 - Present*
 - Archival data collection for a digital humanities project on the Spanish Influenza and communication (1918-1920)

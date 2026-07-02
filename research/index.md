@@ -5,14 +5,23 @@ permalink: /research/
 ---
 
 ## Research Interests
-- Rhetoric of Health & Medicine (Crisis, Risk & Health Communications)
+- Transnational Rhetoric of Health & Medicine (Crisis, Risk & Health Communications)
 - Digital Rhetoric & Critical Digital Literacy
 - Scientific & Technical Communication
 - Digital Humanities
-- Writing Program Development and Design
+
+
+## Publications
+- Reliance Chekwubechukwu Enwerem. 2026. Review of "Transnational Assemblages: Social Justice and Crisis Communication During Disaster by Sweta Baniya," Baniya, S. (2024). Transnational assemblages: Social justice and crisis communication during disaster. National Council of Teachers of English. Commun. Des. Q. Rev 14, 1 (March 2026), 57–59. [https://doi.org/10.1145/3794916.3794922](https://doi.org/10.1145/3794916.3794922)
+- Enwerem, R. C., & Amaefule, P. C. (2026). Rethinking Embodiment: Algorithmic Activisms and Critical Embodiment Pedagogy for Equitable AI Design. In C. D. M. Andrews, E. Kalodner-Martin, N. O'Connell, H. Wang, L. Wilkes, & C. Woods (Eds.), The Proceedings of the Computers and Writing Conference, 2025 (pp. 81–92). The WAC Clearinghouse. [https://doi.org/10.37514/PCW-B.2026.2883.2.06](https://doi.org/10.37514/PCW-B.2026.2883.2.06)
+- Enwerem, Reliance. “Transnational Consciousness as A Counter-Narrative to Essentialist Nationalism.” *Contours of Being and Becoming: Identity, Memory, and Cultural Encounters,* edited by Abdelhak Jebbar and Najah Mahmi, Westphalia Press, 2025.
+- Ekundayo, O. O. S., & Enwerem, R. C. (2021). Writing Naija Right: A Critical Comparative Review of Naija Orthographies. *Journal of the Linguistic Association of Nigeria,* 24(2), 82–98.
 
 
 ## Conference Presentations
+- Conference on Teaching Writing in the Health Professions (WIHPcon), "Co-Developing a Set of Writing in the Disciplines Courses for Pre-Med Students," Arizona, USA (Virtual), June 5, 2026. [Co-Presenter]
+- Computers & Writing Conference, "“They didn’t take the time to make it, why should I take the time to read it?”: Rethinking Labor as Sustainable Practice in AI-Assisted Composition," NC, USA, June 5, 2026.
+- Association for the Rhetoric of Science, Technology, and Medicine (ARSTM) at the Rhetoric Society of America (RSA), "Reframing Impact: Ubuntu Rhetoric and the Ethics of Interface Design in Nigerian Telemedicine Platforms," Portland, OR, USA, May 29, 2026.
 - The Symposium on Communicating Complex Information (SCCI), "Rehumanizing Data: How the Digital Humanities Can Serve as an Antidote to Datafication," New York, USA, April 14, 2026. [Poster presentation] 
 - 4th World Conference on Transformative Education (WCTE), "Rethinking Education: Threshold Concepts and AI in Nigeria’s Writing Classrooms," Johannesburg, South Africa (Virtual), July 4, 2025. [Co-Presenter] 
 - Conference on College Composition & Communication (CCCC), “Modeling the integration of generative AI (genAI) tools into the first-year composition class,” Baltimore, Maryland, April 11, 2025. [Co-Presenter]
@@ -25,13 +34,6 @@ permalink: /research/
 - The University of Alabama American/Cultural Studies Conference, “Transnational Consciousness as a Counter-Narrative to Essentialist Nationalism,” Tuscaloosa, Alabama, February 9, 2024.
 
 
-## Publications
-- Reliance Chekwubechukwu Enwerem. 2026. Review of "Transnational Assemblages: Social Justice and Crisis Communication During Disaster by Sweta Baniya," Baniya, S. (2024). Transnational assemblages: Social justice and crisis communication during disaster. National Council of Teachers of English. Commun. Des. Q. Rev 14, 1 (March 2026), 57–59. [https://doi.org/10.1145/3794916.3794922](https://doi.org/10.1145/3794916.3794922)
-- Enwerem, R. C., & Amaefule, P. C. (2026). Rethinking Embodiment: Algorithmic Activisms and Critical Embodiment Pedagogy for Equitable AI Design. In C. D. M. Andrews, E. Kalodner-Martin, N. O'Connell, H. Wang, L. Wilkes, & C. Woods (Eds.), The Proceedings of the Computers and Writing Conference, 2025 (pp. 81–92). The WAC Clearinghouse. [https://doi.org/10.37514/PCW-B.2026.2883.2.06](https://doi.org/10.37514/PCW-B.2026.2883.2.06)
-- Enwerem, Reliance. “Transnational Consciousness as A Counter-Narrative to Essentialist Nationalism.” *Contours of Being and Becoming: Identity, Memory, and Cultural Encounters,* edited by Abdelhak Jebbar and Najah Mahmi, Westphalia Press, 2025.
-- Ekundayo, O. O. S., & Enwerem, R. C. (2021). Writing Naija Right: A Critical Comparative Review of Naija Orthographies. *Journal of the Linguistic Association of Nigeria,* 24(2), 82–98.
-
-
 ## Professional Leadership Activities
 - *Doctoral Fellow,* University of Central Florida, Aug 2025-2029
 - *Peer Reviewer,* 2026 Computers and Writing Conference, (Dec 2025 - Jan 2026)
@@ -40,6 +42,7 @@ permalink: /research/
 - *Senator,* Grad School Representative, UA Student Government Association,	May 2024 – May 2025
 - *Judge,* The University of Alabama Undergraduate Research and Activity Conference (URCA), Mar 2024.
 - *Committee Member,* Bama Days of Service & Bynam Speaker Series Planning Committee,	Jan 2024 - Apr 2024
+
 
 ## Awards
 - University of Central Florida Trustees Doctoral Fellowship	

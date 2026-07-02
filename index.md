@@ -10,11 +10,11 @@ title: Reliance Enwerem
 
 ### **Welcome to My Digital Portfolio**
 
-![featured-image](/assets/friendly-image-git.jpg)
+![featured-image](/assets/friendly-image-git.jpg){: .intro-photo}
 
-I am Doctoral Fellow in the Texts & Technology program at the University of Central Florida. My interdisciplinary research intersects computational methods, digital rhetoric of technology designs, risk and crisis communication, and other forms of scientific and technical communication. 
+I am Doctoral Fellow in the Texts & Technology program at the University of Central Florida. My interdisciplinary research takes a transnational approach to computational methods, digital rhetoric of technology designs, risk and crisis communication, and other forms of scientific and technical communication. 
 
-Her work focuses on how digital technologies and communication systems shape public understanding, access, and agency—from risk communication in global health to AI literacy and digital writing practices. My research investigates questions like:
+My work focuses on how digital technologies and communication systems shape public understanding, access, and agency—from risk communication in global health to AI literacy and digital writing practices. I investigate questions like:
 
 * How do people navigate risk, trust, and misinformation in digitally mediated environments?
 
