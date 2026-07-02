@@ -31,4 +31,149 @@ p {
   margin-bottom: 1rem;
 }
 
+/* ---------- Projects: clickable card grid ---------- */
+
+.projects-intro {
+  color: #6c757d;
+  font-size: 0.95rem;
+  margin-bottom: 1.5rem;
+}
+
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0 2.5rem;
+  align-items: start;
+}
+
+.project-card {
+  background-color: #ffffff;
+  border: 1px solid #e3e6ea;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.project-card:not([open]):hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+/* Card face (collapsed + the header when open) */
+.project-card > summary {
+  display: block;
+  position: relative;
+  cursor: pointer;
+  list-style: none;
+  padding: 0 0 1rem;
+}
+
+.project-card > summary::-webkit-details-marker {
+  display: none;
+}
+
+.project-thumb {
+  display: block;
+  width: 100%;
+  height: 170px;
+  object-fit: cover;
+  margin: 0 0 0.85rem;
+}
+
+.project-thumb--placeholder {
+  background: linear-gradient(135deg, #157878 0%, #2d5a3d 100%);
+}
+
+.project-thumb--cone {
+  background: radial-gradient(circle at 50% 35%, #2d5a3d 0%, #1a3d29 55%, #0f261a 100%);
+}
+
+.project-index {
+  display: inline-block;
+  margin: 0 1rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: #157878;
+}
+
+.project-title {
+  display: block;
+  margin: 0.15rem 1rem 0.5rem;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #212529;
+  line-height: 1.3;
+}
+
+.project-tag {
+  display: inline-block;
+  margin: 0 1rem;
+  padding: 0.2rem 0.6rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: #157878;
+  background-color: #e6f2f2;
+  border-radius: 999px;
+}
+
+.project-date {
+  display: block;
+  margin: 0.55rem 1rem 0;
+  font-size: 0.82rem;
+  color: #6c757d;
+}
+
+/* Affordance: a small chevron that flips when open */
+.project-card > summary::after {
+  content: "";
+  position: absolute;
+  right: 1.1rem;
+  bottom: 1rem;
+  width: 8px;
+  height: 8px;
+  border-right: 2px solid #adb5bd;
+  border-bottom: 2px solid #adb5bd;
+  transform: rotate(45deg);
+  transition: transform 0.2s ease;
+}
+
+.project-card[open] > summary::after {
+  transform: rotate(-135deg);
+}
+
+/* Expanded card spans the full row for comfortable reading */
+.project-card[open] {
+  grid-column: 1 / -1;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+.project-card[open] > summary {
+  border-bottom: 1px solid #e9ecef;
+  background-color: #f8f9fa;
+}
+
+.project-body {
+  padding: 1.5rem;
+}
+
+.project-body img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin: 1rem 0;
+}
+
+.project-body ul {
+  margin: 1rem 0;
+}
+
+@media (max-width: 480px) {
+  .projects-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 

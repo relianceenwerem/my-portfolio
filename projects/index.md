@@ -6,69 +6,131 @@ permalink: /projects/
 
 ## Projects
 
-### I. [Mill Marginalia](https://millmarginalia.org/)
+<p class="projects-intro">Click a project to expand its full overview.</p>
 
-![mill-marginalia](../assets/mill-marginalia.jpg)
+<div class="projects-grid">
 
-**Public Humanities / Digital Humanities Project - Fall '23 - Spring '24**
-* A multi-faceted open access digital resource showcasing the manuscript marginalia written in texts by both J. S. Mill and his father, enabling researchers and students to read these alongside scholarly writing about these materials.*
-![mill-marginalia-viz](../assets/mm-viz.jpg)
-As a research assistant on this digitization project, Reliance devloped a visualization dashboard, digitized marginalia, and contributed to the development of technical documentation and articles to the [blog](https://blog.millmarginalia.org/)
-  
-- Utilized Power BI and MS Excel for data analysis, cleaning, and visualization
-- Engaged with Adobe for marginalia digitization
-- Documented marginalia digitization processes
+  <details class="project-card" id="project-mill-marginalia">
+    <summary>
+      <img class="project-thumb" src="../assets/mill-marginalia.jpg" alt="Mill Marginalia">
+      <span class="project-index">I</span>
+      <span class="project-title">Mill Marginalia</span>
+      <span class="project-tag">Public / Digital Humanities</span>
+      <span class="project-date">Fall '23 – Spring '24</span>
+    </summary>
+    <div class="project-body">
+      <p><a href="https://millmarginalia.org/">Visit the project site &nearr;</a></p>
+      <p><em>A multi-faceted open access digital resource showcasing the manuscript marginalia written in texts by both J. S. Mill and his father, enabling researchers and students to read these alongside scholarly writing about these materials.</em></p>
+      <img src="../assets/mm-viz.jpg" alt="Mill Marginalia visualization dashboard">
+      <p>As a research assistant on this digitization project, Reliance developed a visualization dashboard, digitized marginalia, and contributed to the development of technical documentation and articles to the <a href="https://blog.millmarginalia.org/">blog</a>.</p>
+      <ul>
+        <li>Utilized Power BI and MS Excel for data analysis, cleaning, and visualization</li>
+        <li>Engaged with Adobe for marginalia digitization</li>
+        <li>Documented marginalia digitization processes</li>
+      </ul>
+    </div>
+  </details>
 
-## II. [Documentation for Georeferenced Maps](https://adhc.lib.ua.edu/mapathon-day-02-georeferencing-maps-in-qgis/)
-**Public Humanities / Digital Humanities Project - Summer '24**
-![georeferencing-image](../assets/georeferencing.jpg)
+  <details class="project-card" id="project-georeferencing">
+    <summary>
+      <img class="project-thumb" src="../assets/georeferencing.jpg" alt="Documentation for Georeferenced Maps">
+      <span class="project-index">II</span>
+      <span class="project-title">Documentation for Georeferenced Maps</span>
+      <span class="project-tag">Public / Digital Humanities</span>
+      <span class="project-date">Summer '24</span>
+    </summary>
+    <div class="project-body">
+      <p><a href="https://adhc.lib.ua.edu/mapathon-day-02-georeferencing-maps-in-qgis/">Visit the documentation &nearr;</a></p>
+      <p><em>A mapathon-focused series aimed at providing a practical guide for mapathon participants on practical elements that will enable them complete the georeferencing task on a scanned image of a map.</em></p>
+      <ul>
+        <li>Utilized Scribe for georeferencing documentation</li>
+        <li>Engaged Geographic Information Systems tools — QGIS for georeferencing Tuscaloosa maps</li>
+      </ul>
+    </div>
+  </details>
 
-*A mapathon-focused series aimed at providing a practical guide for mapathon participants on practical elements that will enable them complete the georeferencing task on a scanned image of a map.*
+  <details class="project-card" id="project-critical-digital-literacy">
+    <summary>
+      <img class="project-thumb" src="../assets/cdl.omeka.png" alt="Digital Storytelling & Critical Digital Literacy">
+      <span class="project-index">III</span>
+      <span class="project-title">Digital Storytelling &amp; Critical Digital Literacy</span>
+      <span class="project-tag">GenAI Literacy / Web Design</span>
+      <span class="project-date">Spring '25</span>
+    </summary>
+    <div class="project-body">
+      <p><a href="https://criticaldigitalliteracies.omeka.net/">Visit the project site &nearr;</a></p>
+      <p><em>This project explores digital storytelling and embodiment in AI technologies. This website was built as part of my master's capstone advancing critical embodiment in AI (mis)representations.</em></p>
+      <ul>
+        <li>Built using Omeka, Canva, and MS PowerPoint</li>
+        <li>Prompt engineering via Wepik AI, Adobe AI, Dall-E</li>
+        <li>Content analysis of AI misrepresentations in Wepik AI, Adobe AI, Dall-E</li>
+      </ul>
+    </div>
+  </details>
 
-- Utilized Scribe for georeferencing documentation
-- Engaged Geographic Information Systems tools- QGIS for georeferncing Tuscaloosa maps
+  <details class="project-card" id="project-epidemic-discourse">
+    <summary>
+      <img class="project-thumb" src="../assets/malaria-analysis_SE_2020.png" alt="Mapping Epidemic Discourse in Nigeria">
+      <span class="project-index">IV</span>
+      <span class="project-title">Mapping Epidemic Discourse in Nigeria</span>
+      <span class="project-tag">Risk Communication / Health Humanities</span>
+      <span class="project-date">Summer '25</span>
+    </summary>
+    <div class="project-body">
+      <p><em>Spatial analysis and visualization of Malaria incidence in Nigeria with focus on the South Eastern region.</em></p>
+      <img src="../assets/malaria-analysis_SE%202019.png" alt="Malaria incidence, South East Nigeria, 2019">
+      <img src="../assets/malaria-analysis_SE_2020.png" alt="Malaria incidence, South East Nigeria, 2020">
+      <ul>
+        <li>Engaged QGIS, ArcGIS, and MS PowerPoint</li>
+        <li>Built data collection forms using ODK / KoboCollect</li>
+      </ul>
+    </div>
+  </details>
 
+  <details class="project-card" id="project-portfolio">
+    <summary>
+      <span class="project-thumb project-thumb--placeholder" aria-hidden="true"></span>
+      <span class="project-index">V</span>
+      <span class="project-title">Portfolio Design and Development</span>
+      <span class="project-tag">Web Design</span>
+      <span class="project-date">Ongoing</span>
+    </summary>
+    <div class="project-body">
+      <p><em>Building a personal academic portfolio with GitHub Pages and Jekyll.</em></p>
+      <p>Designed this digital portfolio to reflect professional identity and showcase interdisciplinary research, teaching, and creative work. The site emphasizes accessibility, clean typography, and responsive design principles.</p>
+      <ul>
+        <li>Implemented in Markdown and HTML using Jekyll and GitHub Pages</li>
+        <li>Customized minimal theme with navigation bar, tags, and integrated analytics</li>
+        <li>Version controlled using Git and GitHub</li>
+      </ul>
+      <p>💻 <strong>Source Code:</strong> <a href="https://relianceenwerem.github.io/my-portfolio/">GitHub Repository</a></p>
+    </div>
+  </details>
 
-## III. [Digital Storytelling & Critical Digital Literacy](https://criticaldigitalliteracies.omeka.net/)
+  <details class="project-card" id="project-rehumanizing-data">
+    <summary>
+      <span class="project-thumb project-thumb--placeholder project-thumb--cone" aria-hidden="true"></span>
+      <span class="project-index">VI</span>
+      <span class="project-title">Rehumanizing Data: An Interactive Word-Cone</span>
+      <span class="project-tag">Digital Humanities / Interactive Design</span>
+      <span class="project-date">Spring '26</span>
+    </summary>
+    <div class="project-body">
+      <p><em>An interactive 3D visualization built with p5.js (WebGL). Words from a research paper abstract are placed on a rotating cone surface, exploring how embodied spatial form can rehumanize abstracted data.</em></p>
+      <p><strong>Controls:</strong> Click and drag to rotate · Double-click to toggle auto-rotation</p>
+      <div id="sketch-container" style="width:100%;max-width:800px;aspect-ratio:8/7;margin:2rem auto;overflow:hidden;border:1px solid #dee2e6;border-radius:4px;"></div>
+      <ul>
+        <li>Implemented in Markdown and HTML using Jekyll and GitHub Pages</li>
+        <li>Customized minimal theme with navigation bar, tags, and integrated analytics</li>
+        <li>Version controlled using Git and GitHub</li>
+      </ul>
+      <p>💻 <strong>Source Code:</strong> <a href="https://relianceenwerem.github.io/my-portfolio/">GitHub Repository</a></p>
+    </div>
+  </details>
 
-![cdl.omeka-image](../assets/cdl.omeka.png)
-**GenAI Literacy / Rhetoric and Composition / Pedagogical Research / Web Design Project - Spring '25**
-
-*This project explores digital storytelling and embodiment in AI technologies. This website was built as part of my master's capstone advancing critical embodiment in AI (mis)representations.*
-
-- Built using Omeka, Canva, and MS PowerPoint 
-- Prompt engineering via Wepik AI, Adobe AI, Dall-E
-- Content analysis of AI misrepresentations in Wepik AI, Adobe AI, Dall-E
-
-## IV. Mapping Epidemic Discourse in Nigeria
-
-**Risk Communications / Health Humanities / Independent Project - Summer '25**
-
-*Spatial analysis and visualization of Malaria incidence in Nigeria with focus on the South Eastern region*
-
-![cdl.omeka-image](../assets/malaria-analysis_SE%202019.png)
-![cdl.omeka-image](../assets/malaria-analysis_SE_2020.png)
-
-- Engaged QGIS, ArcGIS, and MS PowerPoint 
-- Built data collection forms using ODK / KoboCollect
-
-## V. Portfolio Design and Development  
-**Web Design Project — Ongoing**  
-*Building a personal academic portfolio with GitHub Pages and Jekyll.*
-
-Designed this digital portfolio to reflect professional identity and showcase interdisciplinary research, teaching, and creative work. The site emphasizes accessibility, clean typography, and responsive design principles.
-
-## VI. Rehumanizing Data: An Interactive Word-Cone
-
-**Digital Humanities / Interactive Design — Spring '26**
-
-*An interactive 3D visualization built with p5.js (WebGL). Words from a research paper abstract are placed on a rotating cone surface, exploring how embodied spatial form can rehumanize abstracted data.*
-
-**Controls:** Click and drag to rotate · Double-click to toggle auto-rotation
+</div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.3/p5.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-<div id="sketch-container" style="width:100%;max-width:800px;aspect-ratio:8/7;margin:2rem auto;overflow:hidden;border:1px solid #dee2e6;border-radius:4px;"></div>
 
 <script>
 const rehumanizingSketch = (p) => {
@@ -253,16 +315,23 @@ const rehumanizingSketch = (p) => {
 
   p.windowResized = () => {
     let c = document.getElementById('sketch-container');
-    p.resizeCanvas(c.offsetWidth, c.offsetHeight);
+    if (c) p.resizeCanvas(c.offsetWidth, c.offsetHeight);
   };
 };
 
-new p5(rehumanizingSketch, 'sketch-container');
+// Lazily start the sketch the first time its card is opened, so the canvas
+// is sized from a visible (non-zero-width) container. Resize on later opens.
+(function () {
+  const card = document.getElementById('project-rehumanizing-data');
+  if (!card) return;
+  let sketchInstance = null;
+  card.addEventListener('toggle', () => {
+    if (!card.open) return;
+    if (!sketchInstance) {
+      sketchInstance = new p5(rehumanizingSketch, 'sketch-container');
+    } else if (typeof sketchInstance.windowResized === 'function') {
+      sketchInstance.windowResized();
+    }
+  });
+})();
 </script>
-
-
-- Implemented in Markdown and HTML using Jekyll and GitHub Pages  
-- Customized minimal theme with navigation bar, tags, and integrated analytics  
-- Version controlled using Git and GitHub  
-
-💻 **Source Code:** [GitHub Repository](https://relianceenwerem.github.io/my-portfolio/)
