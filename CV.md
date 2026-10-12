@@ -8,6 +8,10 @@ permalink: /cv/
 
 [re994772[at]ucf[dot]edu](mailto:re994772@ucf.edu) • [LinkedIn](https://www.linkedin.com/in/reliance-enwerem/) • [ORC ID](https://orcid.org/0009-0001-2075-4024/) • [GitHub](https://github.com/relianceenwerem)
 
+## Profile
+
+Data and communication specialist focused on impact reporting for nonprofits: indicator design, data cleaning, dashboards and funder reports. Strategic information experience on donor-funded health programs, and currently a Doctoral Fellow in Scientific & Technical Communication.
+
 ## Education
 
 - The University of Central Florida, Orlando, Florida, USA, *PhD, Scientific & Technical Communication, Texts & Technology*  - May 2029 (Expected)	
@@ -15,6 +19,7 @@ permalink: /cv/
 - University of Benin, Benin City, Edo State, Nigeria, *Bachelor of Arts, English and Literature* - Dec 2019
 
 ## Skills
+- Impact reporting and M&E: indicator design, data cleaning, funder and donor reporting, dashboards in Power BI, Looker Studio and Tableau
 - 	Computational data analysis and visualization using Python, Orange, Voyant, & AntConc, Power BI, Tableau, and MS Office Suite
 - User research and data collection tools via Kobo Collect, NVivo
 - 	Technical communication, UX writing, and digital storytelling through Canva, Knight Lab, and WordPress
@@ -22,6 +27,10 @@ permalink: /cv/
 - 	Cross-functional collaboration and project management using Slack, Trello, and Microsoft 365 to coordinate design, research, and communication deliverables
 
 ## Relevant Work Experience
+**Volunteer, Information & Planning Analytics Unit**
+*American Red Cross*
+- Support data analysis for humanitarian emergency response.
+
 **Editorial Assistant**
 *College Composition, and Communication (CCC) Journal, Florida - May 2026 - Present*
 - 
