@@ -8,7 +8,7 @@ title: Reliance Enwerem
 
 ---
 
-### Impact reporting and dashboards for nonprofits
+### Monitoring, Evaluation & Impact Reporting Specialist | Doctoral Fellow, Scientific & Technical Communication
 
 ![Reliance Enwerem](/assets/friendly-image-git.jpg){: .intro-photo}
 
