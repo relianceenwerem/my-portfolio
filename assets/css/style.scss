@@ -3,10 +3,10 @@
 
 @import 'jekyll-theme-cayman';
 
-/* Warm palette (overrides Cayman's blue-green defaults) */
+/* Burgundy palette (overrides Cayman's blue-green defaults) */
 .page-header {
-  background-color: #8f3b1b;
-  background-image: linear-gradient(120deg, #4a2419, #8f3b1b);
+  background-color: #7a1f3d;
+  background-image: linear-gradient(120deg, #3d0f1e, #7a1f3d);
 
   .project-name {
     color: #ffffff;
@@ -23,7 +23,7 @@
 .main-content h4,
 .main-content h5,
 .main-content h6 {
-  color: #8f3b1b;
+  color: #7a1f3d;
 }
 
 body {
@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  color: #a1451f;
+  color: #1f5fae;
   text-decoration: none;
 
   &:hover {
@@ -131,11 +131,11 @@ hr {
 }
 
 .project-thumb--placeholder {
-  background: linear-gradient(135deg, #8f3b1b 0%, #4a2419 100%);
+  background: linear-gradient(135deg, #7a1f3d 0%, #3d0f1e 100%);
 }
 
 .project-thumb--cone {
-  background: radial-gradient(circle at 50% 35%, #4a2419 0%, #3a1c13 55%, #24110b 100%);
+  background: radial-gradient(circle at 50% 35%, #3d0f1e 0%, #2e0b17 55%, #1a060d 100%);
 }
 
 .project-index {
@@ -144,7 +144,7 @@ hr {
   font-size: 0.75rem;
   font-weight: 700;
   letter-spacing: 0.08em;
-  color: #8f3b1b;
+  color: #7a1f3d;
 }
 
 .project-title {
@@ -162,8 +162,8 @@ hr {
   padding: 0.2rem 0.6rem;
   font-size: 0.72rem;
   font-weight: 600;
-  color: #8f3b1b;
-  background-color: #f5e8df;
+  color: #7a1f3d;
+  background-color: #f6e7ec;
   border-radius: 999px;
 }
 
@@ -268,5 +268,5 @@ hr {
     linear-gradient(to top, rgba(255, 255, 255, 0.55) 55%, transparent 55%) 50% 100% / 9% 70% no-repeat,
     linear-gradient(to top, rgba(255, 255, 255, 0.55) 85%, transparent 85%) 66% 100% / 9% 70% no-repeat,
     linear-gradient(to top, rgba(255, 255, 255, 0.55) 65%, transparent 65%) 82% 100% / 9% 70% no-repeat,
-    linear-gradient(135deg, #8f3b1b 0%, #4a2419 100%);
+    linear-gradient(135deg, #7a1f3d 0%, #3d0f1e 100%);
 }
