@@ -3,3 +3,9 @@ plugins:
 - jekyll-remote-theme
 title: Reliance Enwerem
 description: Impact Reporting & Data Visualization for Nonprofits · Doctoral Fellow, Scientific & Technical Communication
+
+# Impact Reporting page: set show_impact_reporting to true and remove
+# "impact-reporting" from exclude to make the page live.
+show_impact_reporting: false
+exclude:
+  - impact-reporting
