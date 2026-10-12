@@ -3,6 +3,29 @@
 
 @import 'jekyll-theme-cayman';
 
+/* Blue palette (overrides Cayman's blue-green defaults) */
+.page-header {
+  background-color: #1f5fae;
+  background-image: linear-gradient(120deg, #123a73, #1f5fae);
+
+  .project-name {
+    color: #ffffff;
+  }
+
+  .project-tagline {
+    color: rgba(255, 255, 255, 0.85);
+  }
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: #1f5fae;
+}
+
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   background-color: #f8f9fa;
@@ -108,11 +131,11 @@ hr {
 }
 
 .project-thumb--placeholder {
-  background: linear-gradient(135deg, #157878 0%, #2d5a3d 100%);
+  background: linear-gradient(135deg, #1f5fae 0%, #123a73 100%);
 }
 
 .project-thumb--cone {
-  background: radial-gradient(circle at 50% 35%, #2d5a3d 0%, #1a3d29 55%, #0f261a 100%);
+  background: radial-gradient(circle at 50% 35%, #123a73 0%, #143766 55%, #0b2142 100%);
 }
 
 .project-index {
@@ -121,7 +144,7 @@ hr {
   font-size: 0.75rem;
   font-weight: 700;
   letter-spacing: 0.08em;
-  color: #157878;
+  color: #1f5fae;
 }
 
 .project-title {
@@ -139,8 +162,8 @@ hr {
   padding: 0.2rem 0.6rem;
   font-size: 0.72rem;
   font-weight: 600;
-  color: #157878;
-  background-color: #e6f2f2;
+  color: #1f5fae;
+  background-color: #e8f0fa;
   border-radius: 999px;
 }
 
@@ -203,37 +226,37 @@ hr {
 
 
 
-/* ---------- Impact Reporting: service cards ---------- */
+/* ---------- Impact Reporting: service list ---------- */
 
-.service-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 1.25rem;
-  margin: 1.25rem 0 2rem;
+.service-list {
+  margin: 1rem 0 2rem;
+  border-bottom: 1px solid #dee2e6;
 }
 
-.service-card {
-  background-color: #ffffff;
-  border: 1px solid #e3e6ea;
-  border-top: 3px solid #157878;
-  border-radius: 10px;
-  padding: 1.1rem 1.25rem 0.4rem;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+.service-item {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 1.5rem;
+  padding: 1.1rem 0;
+  border-top: 1px solid #dee2e6;
 
   h4 {
-    margin: 0 0 0.5rem;
-    font-size: 1.05rem;
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #212529;
   }
 
   p {
-    font-size: 0.95rem;
+    margin: 0;
     color: #495057;
   }
 }
 
 @media (max-width: 600px) {
-  .service-grid {
+  .service-item {
     grid-template-columns: 1fr;
+    gap: 0.35rem;
   }
 }
 
@@ -245,5 +268,5 @@ hr {
     linear-gradient(to top, rgba(255, 255, 255, 0.55) 55%, transparent 55%) 50% 100% / 9% 70% no-repeat,
     linear-gradient(to top, rgba(255, 255, 255, 0.55) 85%, transparent 85%) 66% 100% / 9% 70% no-repeat,
     linear-gradient(to top, rgba(255, 255, 255, 0.55) 65%, transparent 65%) 82% 100% / 9% 70% no-repeat,
-    linear-gradient(135deg, #157878 0%, #2d5a3d 100%);
+    linear-gradient(135deg, #1f5fae 0%, #123a73 100%);
 }

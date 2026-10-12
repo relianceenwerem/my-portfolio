@@ -13,20 +13,20 @@ I take that work off their desks. I set up the indicators, clean the data, build
 
 ### What I offer
 
-<div class="service-grid">
-  <div class="service-card">
+<div class="service-list">
+  <div class="service-item">
     <h4>Data health check</h4>
     <p>A review of how you collect and report data now, one conversation with your team, and a short memo naming the three fixes that matter most.</p>
   </div>
-  <div class="service-card">
+  <div class="service-item">
     <h4>Impact dashboard</h4>
     <p>We agree on the indicators you report against, I clean and connect your data, and I build a live dashboard in Looker Studio or Power BI. Staff training is included.</p>
   </div>
-  <div class="service-card">
+  <div class="service-item">
     <h4>Ongoing impact reporting</h4>
     <p>Monthly data updates, dashboard upkeep, quarterly funder reports and a draft of your annual report, handled on a regular schedule.</p>
   </div>
-  <div class="service-card">
+  <div class="service-item">
     <h4>Report on a deadline</h4>
     <p>When a funder report is due soon and the data isn't ready, I can turn it around in about two weeks.</p>
   </div>
