@@ -10,7 +10,7 @@
     <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
     <link rel="icon" href="{{ '/assets/favicon-32.png' | relative_url }}" type="image/png" sizes="32x32">
     <link rel="apple-touch-icon" href="{{ '/assets/apple-touch-icon.png' | relative_url }}">
-    <meta name="theme-color" content="#1f5fae">
+    <meta name="theme-color" content="#8f3b1b">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
@@ -23,7 +23,7 @@
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       
       <a href="https://relianceenwerem.github.io/my-portfolio/" class="btn">Home</a>
-            <a href="{{ '/impact-reporting/' | absolute_url }}" class="btn">Impact Reporting</a>
+            {% if site.show_impact_reporting %}<a href="{{ '/impact-reporting/' | absolute_url }}" class="btn">Impact Reporting</a>{% endif %}
             <a href="{{ '/projects/' | absolute_url }}" class="btn">Projects</a>
             <a href="{{ '/teaching/' | absolute_url }}" class="btn">Teaching</a>
             <a href="{{ '/research/' | absolute_url }}" class="btn">Research</a>

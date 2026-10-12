@@ -3,10 +3,10 @@
 
 @import 'jekyll-theme-cayman';
 
-/* Blue palette (overrides Cayman's blue-green defaults) */
+/* Warm palette (overrides Cayman's blue-green defaults) */
 .page-header {
-  background-color: #1f5fae;
-  background-image: linear-gradient(120deg, #123a73, #1f5fae);
+  background-color: #8f3b1b;
+  background-image: linear-gradient(120deg, #4a2419, #8f3b1b);
 
   .project-name {
     color: #ffffff;
@@ -23,26 +23,26 @@
 .main-content h4,
 .main-content h5,
 .main-content h6 {
-  color: #1f5fae;
+  color: #8f3b1b;
 }
 
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  background-color: #f8f9fa;
-  color: #343a40;
+  background-color: #faf7f2;
+  color: #3b3330;
   line-height: 1.6;
   margin: 0;
   padding: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #212529;
+  color: #2b2421;
   margin-top: 1.5rem;
   margin-bottom: 1rem;
 }
 
 a {
-  color: #007bff;
+  color: #a1451f;
   text-decoration: none;
 
   &:hover {
@@ -82,7 +82,7 @@ hr {
 /* ---------- Projects: clickable card grid ---------- */
 
 .projects-intro {
-  color: #6c757d;
+  color: #7a6d65;
   font-size: 0.95rem;
   margin-bottom: 1.5rem;
 }
@@ -97,7 +97,7 @@ hr {
 
 .project-card {
   background-color: #ffffff;
-  border: 1px solid #e3e6ea;
+  border: 1px solid #e8e0d8;
   border-radius: 10px;
   overflow: hidden;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
@@ -131,11 +131,11 @@ hr {
 }
 
 .project-thumb--placeholder {
-  background: linear-gradient(135deg, #1f5fae 0%, #123a73 100%);
+  background: linear-gradient(135deg, #8f3b1b 0%, #4a2419 100%);
 }
 
 .project-thumb--cone {
-  background: radial-gradient(circle at 50% 35%, #123a73 0%, #143766 55%, #0b2142 100%);
+  background: radial-gradient(circle at 50% 35%, #4a2419 0%, #3a1c13 55%, #24110b 100%);
 }
 
 .project-index {
@@ -144,7 +144,7 @@ hr {
   font-size: 0.75rem;
   font-weight: 700;
   letter-spacing: 0.08em;
-  color: #1f5fae;
+  color: #8f3b1b;
 }
 
 .project-title {
@@ -152,7 +152,7 @@ hr {
   margin: 0.15rem 1rem 0.5rem;
   font-size: 1.15rem;
   font-weight: 700;
-  color: #212529;
+  color: #2b2421;
   line-height: 1.3;
 }
 
@@ -162,8 +162,8 @@ hr {
   padding: 0.2rem 0.6rem;
   font-size: 0.72rem;
   font-weight: 600;
-  color: #1f5fae;
-  background-color: #e8f0fa;
+  color: #8f3b1b;
+  background-color: #f5e8df;
   border-radius: 999px;
 }
 
@@ -171,7 +171,7 @@ hr {
   display: block;
   margin: 0.55rem 1rem 0;
   font-size: 0.82rem;
-  color: #6c757d;
+  color: #7a6d65;
 }
 
 /* Affordance: a small chevron that flips when open */
@@ -182,8 +182,8 @@ hr {
   bottom: 1rem;
   width: 8px;
   height: 8px;
-  border-right: 2px solid #adb5bd;
-  border-bottom: 2px solid #adb5bd;
+  border-right: 2px solid #bfb2a7;
+  border-bottom: 2px solid #bfb2a7;
   transform: rotate(45deg);
   transition: transform 0.2s ease;
 }
@@ -199,8 +199,8 @@ hr {
 }
 
 .project-card[open] > summary {
-  border-bottom: 1px solid #e9ecef;
-  background-color: #f8f9fa;
+  border-bottom: 1px solid #ece4db;
+  background-color: #faf7f2;
 }
 
 .project-body {
@@ -230,7 +230,7 @@ hr {
 
 .service-list {
   margin: 1rem 0 2rem;
-  border-bottom: 1px solid #dee2e6;
+  border-bottom: 1px solid #e3d9cf;
 }
 
 .service-item {
@@ -238,18 +238,18 @@ hr {
   grid-template-columns: 220px 1fr;
   gap: 1.5rem;
   padding: 1.1rem 0;
-  border-top: 1px solid #dee2e6;
+  border-top: 1px solid #e3d9cf;
 
   h4 {
     margin: 0;
     font-size: 1rem;
     font-weight: 600;
-    color: #212529;
+    color: #2b2421;
   }
 
   p {
     margin: 0;
-    color: #495057;
+    color: #5a4f49;
   }
 }
 
@@ -268,5 +268,5 @@ hr {
     linear-gradient(to top, rgba(255, 255, 255, 0.55) 55%, transparent 55%) 50% 100% / 9% 70% no-repeat,
     linear-gradient(to top, rgba(255, 255, 255, 0.55) 85%, transparent 85%) 66% 100% / 9% 70% no-repeat,
     linear-gradient(to top, rgba(255, 255, 255, 0.55) 65%, transparent 65%) 82% 100% / 9% 70% no-repeat,
-    linear-gradient(135deg, #1f5fae 0%, #123a73 100%);
+    linear-gradient(135deg, #8f3b1b 0%, #4a2419 100%);
 }

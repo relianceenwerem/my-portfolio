@@ -192,7 +192,7 @@ const rehumanizingSketch = (p) => {
   };
 
   p.draw = () => {
-    p.background(250, 249, 246);
+    p.background(250, 247, 242);
     if (autoRotate) rotY += 0.008;
 
     let totalHeight = 400;
@@ -249,7 +249,7 @@ const rehumanizingSketch = (p) => {
       p.pop();
 
       p.noFill();
-      p.stroke(180, 195, 220, 120);
+      p.stroke(222, 200, 186, 120);
       p.strokeWeight(0.4);
       for (let r = 0; r <= 12; r++) {
         let t = r / 12;
@@ -280,7 +280,7 @@ const rehumanizingSketch = (p) => {
           p.rotateY(-rotY);
           p.rotateX(-rotX);
           p.textSize(p.map(t, 0, 1, 9, 14));
-          p.fill(31, 95, 174, alpha);
+          p.fill(143, 59, 27, alpha);
           p.noStroke();
           p.text(words[w], 0, 0);
           p.pop();
@@ -289,14 +289,14 @@ const rehumanizingSketch = (p) => {
 
       p.push();
       p.translate(0, tipY, 0);
-      p.fill(31, 95, 174);
+      p.fill(143, 59, 27);
       p.noStroke();
       p.sphere(3);
       p.pop();
 
       p.push();
       p.translate(0, baseY, 0);
-      p.stroke(31, 95, 174, 80);
+      p.stroke(143, 59, 27, 80);
       p.strokeWeight(1);
       p.noFill();
       p.beginShape();

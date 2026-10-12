@@ -29,7 +29,7 @@ I'm also a Doctoral Fellow in Texts & Technology at the University of Central Fl
 
 I work with aggregate data wherever possible, store it securely and delete client files when a contract ends.
 
-[More about how I work](impact-reporting/)
+{% if site.show_impact_reporting %}[More about how I work](impact-reporting/){% endif %}
 
 ---
 
@@ -49,8 +49,8 @@ My research takes a transnational approach to risk and health communication, dig
 
 ### About this site
 
-* [Impact Reporting](impact-reporting/): the reporting and dashboard work I take on for nonprofits.
-* [Projects](projects/): dashboards, maps and digital projects.
+{% if site.show_impact_reporting %}* [Impact Reporting](impact-reporting/): the reporting and dashboard work I take on for nonprofits.
+{% endif %}* [Projects](projects/): dashboards, maps and digital projects.
 * [Teaching](teaching/): courses and approach.
 * [Research](research/): publications, conference talks and awards.
 * [CV](cv/)
