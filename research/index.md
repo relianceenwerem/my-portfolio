@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaching Experience
+title: Research
 permalink: /research/
 ---
 

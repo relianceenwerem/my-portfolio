@@ -10,10 +10,29 @@ permalink: /projects/
 
 <div class="projects-grid">
 
+  <details class="project-card" id="project-impact-dashboard">
+    <summary>
+      <span class="project-thumb project-thumb--placeholder project-thumb--dashboard" aria-hidden="true"></span>
+      <span class="project-index">I</span>
+      <span class="project-title">Sample Nonprofit Impact Dashboard</span>
+      <span class="project-tag">Impact Reporting / Dashboards</span>
+      <span class="project-date">In progress</span>
+    </summary>
+    <div class="project-body">
+      <p><em>A worked example of the dashboard and funder report package I build for nonprofits, made from public data so it can be shared openly.</em></p>
+      <p>The sample follows the steps of a real engagement: agreeing on a small set of program indicators, cleaning and joining the source data, building a live dashboard, and writing a two-page quarterly report from it. A link to the live dashboard will go here once it is published.</p>
+      <ul>
+        <li>Built in Looker Studio and Power BI, with Google Sheets as the data source</li>
+        <li>Indicators mapped to typical funder reporting templates</li>
+        <li>Includes a short guide for staff on updating the data each month</li>
+      </ul>
+    </div>
+  </details>
+
   <details class="project-card" id="project-mill-marginalia">
     <summary>
       <img class="project-thumb" src="../assets/mill-marginalia.jpg" alt="Mill Marginalia">
-      <span class="project-index">I</span>
+      <span class="project-index">II</span>
       <span class="project-title">Mill Marginalia</span>
       <span class="project-tag">Public / Digital Humanities</span>
       <span class="project-date">Fall '23 – Spring '24</span>
@@ -22,9 +41,9 @@ permalink: /projects/
       <p><a href="https://millmarginalia.org/">Visit the project site &nearr;</a></p>
       <p><em>A multi-faceted open access digital resource showcasing the manuscript marginalia written in texts by both J. S. Mill and his father, enabling researchers and students to read these alongside scholarly writing about these materials.</em></p>
       <img src="../assets/mm-viz.jpg" alt="Mill Marginalia visualization dashboard">
-      <p>As a research assistant on this digitization project, Reliance developed a visualization dashboard, digitized marginalia, and contributed to the development of technical documentation and articles to the <a href="https://blog.millmarginalia.org/">blog</a>.</p>
+      <p>As a research assistant on this digitization project, I built a Power BI dashboard that lets readers explore the marginalia data, and I digitized marginalia and wrote technical documentation and articles for the <a href="https://blog.millmarginalia.org/">blog</a>.</p>
       <ul>
-        <li>Utilized Power BI and MS Excel for data analysis, cleaning, and visualization</li>
+        <li>Cleaned and analyzed the project data in Excel, then visualized it in Power BI</li>
         <li>Engaged with Adobe for marginalia digitization</li>
         <li>Documented marginalia digitization processes</li>
       </ul>
@@ -34,7 +53,7 @@ permalink: /projects/
   <details class="project-card" id="project-georeferencing">
     <summary>
       <img class="project-thumb" src="../assets/georeferencing.jpg" alt="Documentation for Georeferenced Maps">
-      <span class="project-index">II</span>
+      <span class="project-index">III</span>
       <span class="project-title">Documentation for Georeferenced Maps</span>
       <span class="project-tag">Public / Digital Humanities</span>
       <span class="project-date">Summer '24</span>
@@ -52,7 +71,7 @@ permalink: /projects/
   <details class="project-card" id="project-critical-digital-literacy">
     <summary>
       <img class="project-thumb" src="../assets/cdl.omeka.png" alt="Digital Storytelling & Critical Digital Literacy">
-      <span class="project-index">III</span>
+      <span class="project-index">IV</span>
       <span class="project-title">Digital Storytelling &amp; Critical Digital Literacy</span>
       <span class="project-tag">GenAI Literacy / Web Design</span>
       <span class="project-date">Spring '25</span>
@@ -71,18 +90,19 @@ permalink: /projects/
   <details class="project-card" id="project-epidemic-discourse">
     <summary>
       <img class="project-thumb" src="../assets/malaria-analysis_SE_2020.png" alt="Mapping Epidemic Discourse in Nigeria">
-      <span class="project-index">IV</span>
+      <span class="project-index">V</span>
       <span class="project-title">Mapping Epidemic Discourse in Nigeria</span>
       <span class="project-tag">Risk Communication / Health Humanities</span>
       <span class="project-date">Summer '25</span>
     </summary>
     <div class="project-body">
-      <p><em>Spatial analysis and visualization of Malaria incidence in Nigeria with focus on the South Eastern region.</em></p>
+      <p><em>Spatial analysis and visualization of malaria incidence in Nigeria, focused on the South East region.</em></p>
+      <p>I turned several years of incidence data into a series of maps that show where cases are concentrated and how that changed from year to year, a format program managers and health officials can read at a glance.</p>
       <img src="../assets/malaria-analysis_SE%202019.png" alt="Malaria incidence, South East Nigeria, 2019">
       <img src="../assets/malaria-analysis_SE_2020.png" alt="Malaria incidence, South East Nigeria, 2020">
       <ul>
         <li>Engaged QGIS, ArcGIS, and MS PowerPoint</li>
-        <li>Built data collection forms using ODK / KoboCollect</li>
+        <li>Built data collection forms in ODK / KoboCollect</li>
       </ul>
     </div>
   </details>
@@ -90,7 +110,7 @@ permalink: /projects/
   <details class="project-card" id="project-portfolio">
     <summary>
       <span class="project-thumb project-thumb--placeholder" aria-hidden="true"></span>
-      <span class="project-index">V</span>
+      <span class="project-index">VI</span>
       <span class="project-title">Portfolio Design and Development</span>
       <span class="project-tag">Web Design</span>
       <span class="project-date">Ongoing</span>
@@ -110,7 +130,7 @@ permalink: /projects/
   <details class="project-card" id="project-rehumanizing-data">
     <summary>
       <span class="project-thumb project-thumb--placeholder project-thumb--cone" aria-hidden="true"></span>
-      <span class="project-index">VI</span>
+      <span class="project-index">VII</span>
       <span class="project-title">Rehumanizing Data: An Interactive Word-Cone</span>
       <span class="project-tag">Digital Humanities / Interactive Design</span>
       <span class="project-date">Spring '26</span>

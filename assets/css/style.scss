@@ -202,3 +202,48 @@ hr {
 }
 
 
+
+/* ---------- Impact Reporting: service cards ---------- */
+
+.service-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.25rem;
+  margin: 1.25rem 0 2rem;
+}
+
+.service-card {
+  background-color: #ffffff;
+  border: 1px solid #e3e6ea;
+  border-top: 3px solid #157878;
+  border-radius: 10px;
+  padding: 1.1rem 1.25rem 0.4rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+
+  h4 {
+    margin: 0 0 0.5rem;
+    font-size: 1.05rem;
+  }
+
+  p {
+    font-size: 0.95rem;
+    color: #495057;
+  }
+}
+
+@media (max-width: 600px) {
+  .service-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Placeholder thumb for the sample dashboard: simple bar-chart silhouette */
+.project-thumb--dashboard {
+  background:
+    linear-gradient(to top, rgba(255, 255, 255, 0.55) 45%, transparent 45%) 18% 100% / 9% 70% no-repeat,
+    linear-gradient(to top, rgba(255, 255, 255, 0.55) 70%, transparent 70%) 34% 100% / 9% 70% no-repeat,
+    linear-gradient(to top, rgba(255, 255, 255, 0.55) 55%, transparent 55%) 50% 100% / 9% 70% no-repeat,
+    linear-gradient(to top, rgba(255, 255, 255, 0.55) 85%, transparent 85%) 66% 100% / 9% 70% no-repeat,
+    linear-gradient(to top, rgba(255, 255, 255, 0.55) 65%, transparent 65%) 82% 100% / 9% 70% no-repeat,
+    linear-gradient(135deg, #157878 0%, #2d5a3d 100%);
+}
