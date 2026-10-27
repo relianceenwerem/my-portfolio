@@ -12,6 +12,7 @@ permalink: /research/
 
 
 ## Publications
+- Enwerem, R. C., Amiokhaibhor, T. E., & Okhumode, G. (2026). Humoring Health Risks: Social Media Skits as Tactical Risk Communication. Proceedings of the 44th ACM International Conference on Design of Communication, SIGDOC ’26, 78–84. [https://doi.org/10.1145/3772063.3841656](https://doi.org/10.1145/3772063.3841656)
 - Enwerem, R. C., & Amaefule, P. C. (2026). Rethinking Embodiment: Algorithmic Activisms and Critical Embodiment Pedagogy for Equitable AI Design. In C. D. M. Andrews, E. Kalodner-Martin, N. O'Connell, H. Wang, L. Wilkes, & C. Woods (Eds.), The Proceedings of the Computers and Writing Conference, 2025 (pp. 81–92). The WAC Clearinghouse. [https://doi.org/10.37514/PCW-B.2026.2883.2.06](https://doi.org/10.37514/PCW-B.2026.2883.2.06)
 - Enwerem, R.C. (2026). Review of "Transnational Assemblages: Social Justice and Crisis Communication During Disaster by Sweta Baniya," Baniya, S. (2024). Transnational assemblages: Social justice and crisis communication during disaster. National Council of Teachers of English. Commun. Des. Q. Rev 14, 1 (2026), 57–59. [https://doi.org/10.1145/3794916.3794922](https://doi.org/10.1145/3794916.3794922)
 - Enwerem, R. (2025). “Transnational Consciousness as A Counter-Narrative to Essentialist Nationalism.” *Contours of Being and Becoming: Identity, Memory, and Cultural Encounters,* edited by Abdelhak Jebbar and Najah Mahmi, Westphalia Press, 2025.
@@ -19,23 +20,24 @@ permalink: /research/
 
 
 ## Conference Presentations
-- Conference on Teaching Writing in the Health Professions (WIHPcon), "Co-Developing a Set of Writing in the Disciplines Courses for Pre-Med Students," Arizona, USA (Virtual), June 5, 2026. [Co-Presenter]
+- ACM SIGDOC, "Humoring Health Risks: Social Media Skits as Tactical Risk Communication," St. Paul, Minnesota, October 24, 2026.
+- Conference on Teaching Writing in the Health Professions (WIHPcon), "Co-Developing a Set of Writing in the Disciplines Courses for Pre-Med Students," Arizona, USA (Virtual), June 5, 2026. 
 - Computers & Writing Conference, "“They didn’t take the time to make it, why should I take the time to read it?”: Rethinking Labor as Sustainable Practice in AI-Assisted Composition," NC, USA, June 5, 2026.
 - Association for the Rhetoric of Science, Technology, and Medicine (ARSTM) at the Rhetoric Society of America (RSA), "Reframing Impact: Ubuntu Rhetoric and the Ethics of Interface Design in Nigerian Telemedicine Platforms," Portland, OR, USA, May 29, 2026.
-- The Symposium on Communicating Complex Information (SCCI), "Rehumanizing Data: How the Digital Humanities Can Serve as an Antidote to Datafication," New York, USA, April 14, 2026. [Poster presentation] 
-- 4th World Conference on Transformative Education (WCTE), "Rethinking Education: Threshold Concepts and AI in Nigeria’s Writing Classrooms," Johannesburg, South Africa (Virtual), July 4, 2025. [Co-Presenter] 
-- Conference on College Composition & Communication (CCCC), “Modeling the integration of generative AI (genAI) tools into the first-year composition class,” Baltimore, Maryland, April 11, 2025. [Co-Presenter]
+- The Symposium on Communicating Complex Information (SCCI), "Rehumanizing Data: How the Digital Humanities Can Serve as an Antidote to Datafication," New York, USA, April 14, 2026. 
+- 4th World Conference on Transformative Education (WCTE), "Rethinking Education: Threshold Concepts and AI in Nigeria’s Writing Classrooms," Johannesburg, South Africa (Virtual), July 4, 2025.  
+- Conference on College Composition & Communication (CCCC), “Modeling the integration of generative AI (genAI) tools into the first-year composition class,” Baltimore, Maryland, April 11, 2025. 
 - Intersections, Cross-Sections (ISCS), “Investigating Contact Zones in Rhetoric & Composition Programs,” Toronto, Canada, March 14, 2025. 
 - The University of Alabama Digital Humanities Conference, Digitorium, “The Role of Peer-to-Peer Learning and Mentorship in Accelerating Skills Acquisition in Digital Humanities,” Tuscaloosa, Alabama, September 13, 2024.
 - Computers & Writing Conference, “Digital Storytelling: Advancing Critical Embodiment in AI (Mis)Representations,” Fort Worth, Texas, June 22, 2024. [criticaldigitalliteracies.omeka.net/](https://criticaldigitalliteracies.omeka.net/)
 - Southeastern Writing Centre Association (SWCA) Conference, “Writing Center Movements: Keeping Up with AI in the Writing Center,” Decatur, Georgia, February 23, 2024. [Panelist]
-- Southeastern Writing Centre Association (SWCA) Conference, “Online Tutoring: Strategies to Improve Collaboration and Communication,” Decatur, Georgia, February 23, 2024. [Co-Presenter]
+- Southeastern Writing Centre Association (SWCA) Conference, “Online Tutoring: Strategies to Improve Collaboration and Communication,” Decatur, Georgia, February 23, 2024. 
 - The University of Alabama Language Conference (UALC), “Glocalization: The Dynamics of Power and Technology in the Spread of Englishes,” Tuscaloosa, Alabama, February 10, 2024. 
 - The University of Alabama American/Cultural Studies Conference, “Transnational Consciousness as a Counter-Narrative to Essentialist Nationalism,” Tuscaloosa, Alabama, February 9, 2024.
 
 
 ## Professional Leadership Activities
-- *Doctoral Fellow,* University of Central Florida, Aug 2025-2029
+- *Doctoral Fellow,* University of Central Florida, Aug 2025-Present
 - *Peer Reviewer,* 2026 Computers and Writing Conference, (Dec 2025 - Jan 2026)
 - *Delegate,* United Nations Economic and Social Council Youth Forum (UN ECOSOC),	Apr 2025
 - *President,* English Graduate Organization (EGO), The University of Alabama,	May 2024 – May 2025
@@ -45,10 +47,11 @@ permalink: /research/
 
 
 ## Awards
-- University of Central Florida Trustees Doctoral Fellowship	
-- Award of Excellence, Achieving Health Nigeria Initiative	
-- NASA Open Science badge, NASA Transform to Open Science (TOPS)
-- Southeastern Writing Center Association Tom Waldrep Travel Scholarship
+- ACM SIGDOC, Best Paper Award Honorable Mention for "Humoring Health Risks: Social Media Skits as Tactical Risk Communication" (2026)
+- University of Central Florida Trustees Doctoral Fellowship (2025-2029)	
+- NASA Open Science badge, NASA Transform to Open Science (TOPS) (2025)
+- Southeastern Writing Center Association Tom Waldrep Travel Scholarship (2025)
+- Award of Excellence, Achieving Health Nigeria Initiative (2021)
 - Kansas University Doctoral Fellowship (Declined)
 - University of Louisville Doctoral Fellowship (Declined)
    
